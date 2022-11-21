@@ -1,0 +1,2768 @@
+[
+    {
+        "history_size": 1,
+        "folders": [
+            "final_exam"
+        ],
+        "nr": 871,
+        "data": {
+            "embed_links": []
+        },
+        "created": "2022-05-09T18:51:39Z",
+        "bucket_order": 3,
+        "no_answer_followup": 0,
+        "change_log": [
+            {
+                "anon": "stud",
+                "data": "l2z2yla7ndw353",
+                "v": "all",
+                "type": "create",
+                "when": "2022-05-09T18:51:39Z",
+                "uid_a": "a_0"
+            },
+            {
+                "anon": "no",
+                "uid": "ky7nqdhlj5y1bb",
+                "data": "l2z6kmkts1043o",
+                "to": "l2z2yla4c81352",
+                "type": "i_answer",
+                "when": "2022-05-09T20:32:46Z"
+            }
+        ],
+        "bucket_name": "Today",
+        "history": [
+            {
+                "anon": "stud",
+                "uid_a": "a_0",
+                "subject": "Question 47",
+                "created": "2022-05-09T18:51:39Z",
+                "content": "<p><img src=\"/redirect/s3?bucket=uploads&amp;prefix=paste%2Fke28zmvorxu43x%2F87ee625c5887c9592fbb1a8527d92178dbf3828b967fb11fa0cfd8bb2e8a0879%2F552f8cafa3d96f081218928378a22c6.png\" alt=\"552f8cafa3d96f081218928378a22c6.png\" width=\"374\" height=\"142\" /></p>\n<p>BERT cannot be fine-tuned to abstractive summarization because it could fill the masked words but cannot generate a summary with a decoder?</p>\n<p></p>\n<p>Thanks a lot!</p>\n<p></p>\n<p></p>"
+            }
+        ],
+        "type": "question",
+        "tags": [
+            "final_exam",
+            "student"
+        ],
+        "tag_good": [],
+        "unique_views": 140,
+        "children": [
+            {
+                "history_size": 1,
+                "folders": [],
+                "data": {
+                    "embed_links": []
+                },
+                "created": "2022-05-09T20:32:46Z",
+                "bucket_order": 3,
+                "tag_endorse": [],
+                "bucket_name": "Today",
+                "history": [
+                    {
+                        "anon": "no",
+                        "uid": "ky7nqdhlj5y1bb",
+                        "subject": "",
+                        "created": "2022-05-09T20:32:46Z",
+                        "content": "<p>For abstractive sumarization you need an autoregressive model. BERT is an MLM and does not do autoregressive generation.</p>"
+                    }
+                ],
+                "type": "i_answer",
+                "tag_endorse_arr": [],
+                "children": [],
+                "id": "l2z6kmkqrr043n",
+                "config": {
+                    "editor": "rte"
+                },
+                "is_tag_endorse": false
+            }
+        ],
+        "tag_good_arr": [],
+        "no_answer": 0,
+        "id": "l2z2yla4c81352",
+        "config": {
+            "editor": "rte",
+            "seen": {
+                "870": 3,
+                "486": 0,
+                "268": 6,
+                "774": 4,
+                "568": 2,
+                "748": 5,
+                "719": 1
+            },
+            "has_emails_sent": 1
+        },
+        "status": "active",
+        "drafts": null,
+        "request_instructor": 0,
+        "request_instructor_me": false,
+        "bookmarked": 4,
+        "num_favorites": 0,
+        "my_favorite": false,
+        "is_bookmarked": false,
+        "is_tag_good": false,
+        "q_edits": [],
+        "i_edits": [],
+        "s_edits": [],
+        "t": 1668831542525,
+        "default_anonymity": "no"
+    },
+    {
+        "history_size": 1,
+        "folders": [
+            "final_exam"
+        ],
+        "nr": 870,
+        "data": {
+            "embed_links": []
+        },
+        "created": "2022-05-09T18:30:59Z",
+        "bucket_order": 3,
+        "no_answer_followup": 0,
+        "change_log": [
+            {
+                "anon": "stud",
+                "data": "l2z280eyrts2l4",
+                "v": "all",
+                "type": "create",
+                "when": "2022-05-09T18:30:59Z",
+                "uid_a": "a_0"
+            },
+            {
+                "anon": "no",
+                "uid": "ky7nqdhlj5y1bb",
+                "data": "l2z6nqyvs8u5pd",
+                "to": "l2z280evkj12l2",
+                "type": "i_answer",
+                "when": "2022-05-09T20:35:12Z"
+            },
+            {
+                "anon": "no",
+                "uid": "ky7nqdhlj5y1bb",
+                "data": "l2z7fudgal9ti",
+                "type": "i_answer_update",
+                "when": "2022-05-09T20:57:03Z"
+            }
+        ],
+        "bucket_name": "Today",
+        "history": [
+            {
+                "anon": "stud",
+                "uid_a": "a_0",
+                "subject": "Question 32",
+                "created": "2022-05-09T18:30:59Z",
+                "content": "<p><img src=\"/redirect/s3?bucket=uploads&amp;prefix=paste%2Fke28zmvorxu43x%2F4c74e8d843051422e5264a46810c41865f9b31e21ff6bc1b04f573791ca0f56a%2Fimage.png\" alt=\"image.png\" /></p>\n<p>Can anyone explain why Abstractive summarization could be a use case of NLI?</p>\n<p>And for Fact verification, we could have a context and a fact sentence, which we could do NLI in my opinion?</p>\n<p>Thank you very much!</p>"
+            }
+        ],
+        "type": "question",
+        "tags": [
+            "final_exam",
+            "student"
+        ],
+        "tag_good": [
+            {
+                "role": "student",
+                "name": "Varun Venkatesh",
+                "endorser": {
+                    "ksmlgkord5752e": 1631142274,
+                    "ks4pwr54h7d32z": 1631242059,
+                    "global": 1633240927,
+                    "ky7ls2h92kpwe": 1643331404
+                },
+                "admin": false,
+                "photo": null,
+                "id": "kshyzxa64ds48u",
+                "photo_url": null,
+                "published": true,
+                "us": false,
+                "facebook_id": null
+            },
+            {
+                "role": "student",
+                "name": "Aneeta George",
+                "endorser": {
+                    "kxindf11ki56s2": 1645688335
+                },
+                "admin": false,
+                "photo": null,
+                "id": "ksq81nxfwxg351",
+                "photo_url": null,
+                "published": true,
+                "us": false,
+                "facebook_id": null
+            },
+            {
+                "role": "student",
+                "name": "Aman Mohandas",
+                "endorser": {},
+                "admin": false,
+                "photo": null,
+                "id": "ksgin50sjk43x6",
+                "photo_url": null,
+                "published": true,
+                "us": false,
+                "facebook_id": null
+            }
+        ],
+        "unique_views": 184,
+        "children": [
+            {
+                "history_size": 2,
+                "folders": [],
+                "data": {
+                    "embed_links": []
+                },
+                "created": "2022-05-09T20:35:12Z",
+                "bucket_order": 3,
+                "tag_endorse": [
+                    {
+                        "role": "student",
+                        "name": "Aneeta George",
+                        "endorser": {
+                            "kxindf11ki56s2": 1645688335
+                        },
+                        "admin": false,
+                        "photo": null,
+                        "id": "ksq81nxfwxg351",
+                        "photo_url": null,
+                        "published": true,
+                        "us": false,
+                        "facebook_id": null
+                    },
+                    {
+                        "role": "student",
+                        "name": "Haobo Xu",
+                        "endorser": {},
+                        "admin": false,
+                        "photo": "1630371831_200.jpg",
+                        "id": "ke28zmvorxu43x",
+                        "photo_url": "https://cdn-uploads.piazza.com/photos/ke28zmvorxu43x/1630371831_200.jpg",
+                        "published": true,
+                        "us": false,
+                        "facebook_id": null
+                    },
+                    {
+                        "role": "student",
+                        "name": "Ayush Kothari",
+                        "endorser": {},
+                        "admin": false,
+                        "photo": null,
+                        "id": "ksq81nofxuz34a",
+                        "photo_url": null,
+                        "published": true,
+                        "us": false,
+                        "facebook_id": null
+                    },
+                    {
+                        "role": "student",
+                        "name": "Aman Mohandas",
+                        "endorser": {},
+                        "admin": false,
+                        "photo": null,
+                        "id": "ksgin50sjk43x6",
+                        "photo_url": null,
+                        "published": true,
+                        "us": false,
+                        "facebook_id": null
+                    },
+                    {
+                        "role": "student",
+                        "name": "Laxmi Garde",
+                        "endorser": {},
+                        "admin": false,
+                        "photo": "1632201878_200.jpg",
+                        "id": "ksoacowobeh4to",
+                        "photo_url": "https://cdn-uploads.piazza.com/photos/ksoacowobeh4to/1632201878_200.jpg",
+                        "published": true,
+                        "us": false,
+                        "class_sections": [
+                            "kz3c0cy14usa_ky7ls2h92kpwe"
+                        ],
+                        "facebook_id": null
+                    },
+                    {
+                        "role": "student",
+                        "name": "Divya Manjunath",
+                        "endorser": {},
+                        "admin": false,
+                        "photo": null,
+                        "id": "kk2zq5gkqjvmh",
+                        "photo_url": null,
+                        "published": true,
+                        "us": false,
+                        "facebook_id": null
+                    }
+                ],
+                "bucket_name": "Today",
+                "history": [
+                    {
+                        "anon": "no",
+                        "uid": "ky7nqdhlj5y1bb",
+                        "subject": "",
+                        "created": "2022-05-09T20:57:03Z",
+                        "content": "<p>That should be indeed fact verification. I just corrected that in the system.</p>"
+                    },
+                    {
+                        "anon": "no",
+                        "uid": "ky7nqdhlj5y1bb",
+                        "subject": "",
+                        "created": "2022-05-09T20:35:12Z",
+                        "content": "<p>That should be indeed fact verification. I juust corrected that in the system.</p>"
+                    }
+                ],
+                "type": "i_answer",
+                "tag_endorse_arr": [
+                    "ksq81nxfwxg351",
+                    "ke28zmvorxu43x",
+                    "ksq81nofxuz34a",
+                    "ksgin50sjk43x6",
+                    "ksoacowobeh4to",
+                    "kk2zq5gkqjvmh"
+                ],
+                "children": [],
+                "id": "l2z6nqysczq5pc",
+                "config": {
+                    "editor": "rte"
+                },
+                "is_tag_endorse": false
+            }
+        ],
+        "tag_good_arr": [
+            "kshyzxa64ds48u",
+            "ksq81nxfwxg351",
+            "ksgin50sjk43x6"
+        ],
+        "no_answer": 0,
+        "id": "l2z280evkj12l2",
+        "config": {
+            "editor": "rte",
+            "seen": {
+                "573": 2,
+                "569": 1,
+                "734": 0,
+                "394": 3
+            },
+            "has_emails_sent": 1
+        },
+        "status": "active",
+        "drafts": null,
+        "request_instructor": 0,
+        "request_instructor_me": false,
+        "bookmarked": 5,
+        "num_favorites": 0,
+        "my_favorite": false,
+        "is_bookmarked": false,
+        "is_tag_good": false,
+        "q_edits": [],
+        "i_edits": [],
+        "s_edits": [],
+        "t": 1668831544638,
+        "default_anonymity": "no"
+    },
+    {
+        "history_size": 1,
+        "folders": [
+            "final_exam"
+        ],
+        "nr": 868,
+        "data": {
+            "embed_links": []
+        },
+        "created": "2022-05-09T17:01:53Z",
+        "bucket_order": 3,
+        "no_answer_followup": 0,
+        "change_log": [
+            {
+                "anon": "stud",
+                "data": "l2yz1f08x4l58f",
+                "v": "all",
+                "type": "create",
+                "when": "2022-05-09T17:01:53Z",
+                "uid_a": "a_0"
+            },
+            {
+                "anon": "no",
+                "uid": "ixm5rfb79wz6t",
+                "data": "l2z4v6d2d0r2mr",
+                "to": "l2yz1f04ggo58e",
+                "type": "i_answer",
+                "when": "2022-05-09T19:44:59Z"
+            },
+            {
+                "anon": "stud",
+                "to": "l2yz1f04ggo58e",
+                "type": "followup",
+                "when": "2022-05-09T20:23:20Z",
+                "cid": "l2z68hc3zxk5g8",
+                "uid_a": "a_0"
+            }
+        ],
+        "bucket_name": "Today",
+        "history": [
+            {
+                "anon": "stud",
+                "uid_a": "a_0",
+                "subject": "Question 15",
+                "created": "2022-05-09T17:01:53Z",
+                "content": "<p><img src=\"/redirect/s3?bucket=uploads&amp;prefix=paste%2Fke28zmvorxu43x%2F3b5b02ff6edc6d1ac27f405c7b70dfc87ddf9077b36899710e1d5187f2bbcfd5%2Fimage.png\" alt=\"image.png\" /></p>\n<p>I am confused about this question.</p>\n<p></p>\n<p>In the class, the example of syntactic ambiguity is that &#34;Flying planes can be dangerous&#34;. And professor Ron mentioned that words in this string have one meaning but the combination of words has more than one meaning. So I guess my choice also makes sense?</p>\n<p></p>"
+            }
+        ],
+        "type": "question",
+        "tags": [
+            "final_exam",
+            "student"
+        ],
+        "tag_good": [],
+        "unique_views": 135,
+        "children": [
+            {
+                "history_size": 1,
+                "folders": [],
+                "data": {
+                    "embed_links": []
+                },
+                "created": "2022-05-09T19:44:59Z",
+                "bucket_order": 3,
+                "tag_endorse": [],
+                "bucket_name": "Today",
+                "history": [
+                    {
+                        "anon": "no",
+                        "uid": "ixm5rfb79wz6t",
+                        "subject": "",
+                        "created": "2022-05-09T19:44:59Z",
+                        "content": "Syntax is a matter of sentence structure, as explained in the introduction class, the parsing class, and the associated reading. While it is true that different structures often correspond to different meanings, this is not always the case. For example, &#34;(a cat and a dog) and a mouse&#34; has a very similar meaning to &#34;a cat and (a dog and a mouse)&#34;."
+                    }
+                ],
+                "type": "i_answer",
+                "tag_endorse_arr": [],
+                "children": [],
+                "id": "l2z4v6czu8x2mp",
+                "config": {
+                    "editor": "plain"
+                },
+                "is_tag_endorse": false
+            },
+            {
+                "anon": "stud",
+                "folders": [],
+                "data": {
+                    "embed_links": null
+                },
+                "no_upvotes": 0,
+                "subject": "<p>Ok, I thought the one more meaning you mentioned in class is the definition. From the explanation you gave, it makes more sense! Thank you.</p>",
+                "created": "2022-05-09T20:23:20Z",
+                "bucket_order": 3,
+                "bucket_name": "Today",
+                "type": "followup",
+                "tag_good": [],
+                "uid_a": "a_0",
+                "children": [],
+                "tag_good_arr": [],
+                "no_answer": 0,
+                "id": "l2z68hc3zxk5g8",
+                "updated": "2022-05-09T20:23:20Z",
+                "config": {
+                    "editor": "rte"
+                }
+            }
+        ],
+        "tag_good_arr": [],
+        "no_answer": 0,
+        "id": "l2yz1f04ggo58e",
+        "config": {
+            "editor": "rte",
+            "seen": {
+                "355": 3,
+                "468": 4,
+                "825": 0,
+                "75": 2,
+                "383": 1
+            },
+            "has_emails_sent": 1
+        },
+        "status": "active",
+        "drafts": null,
+        "request_instructor": 0,
+        "request_instructor_me": false,
+        "bookmarked": 4,
+        "num_favorites": 0,
+        "my_favorite": false,
+        "is_bookmarked": false,
+        "is_tag_good": false,
+        "q_edits": [],
+        "i_edits": [],
+        "s_edits": [],
+        "t": 1668831546745,
+        "default_anonymity": "no"
+    },
+    {
+        "history_size": 1,
+        "folders": [
+            "coding3"
+        ],
+        "nr": 594,
+        "data": {
+            "embed_links": []
+        },
+        "created": "2022-03-21T02:57:55Z",
+        "bucket_order": 3,
+        "no_answer_followup": 0,
+        "change_log": [
+            {
+                "anon": "stud",
+                "data": "l104bc18zf83wr",
+                "v": "all",
+                "type": "create",
+                "when": "2022-03-21T02:57:55Z",
+                "uid_a": "a_0"
+            },
+            {
+                "anon": "no",
+                "uid": "ky7nqdhlj5y1bb",
+                "data": "l12owtti5wz6kc",
+                "to": "l104bc15rdx3wq",
+                "type": "i_answer",
+                "when": "2022-03-22T22:10:03Z"
+            }
+        ],
+        "bucket_name": "Today",
+        "history": [
+            {
+                "anon": "stud",
+                "uid_a": "a_0",
+                "subject": "How to handle OOVs?",
+                "created": "2022-03-21T02:57:55Z",
+                "content": "<p>What are the different ways to handle OOV (out of vocabulary) words?</p>"
+            }
+        ],
+        "type": "question",
+        "tags": [
+            "coding3",
+            "student"
+        ],
+        "tag_good": [
+            {
+                "role": "student",
+                "name": "Saujanya Mulukutla",
+                "endorser": {},
+                "admin": false,
+                "photo": null,
+                "id": "ksq81rm5h8h3h2",
+                "photo_url": null,
+                "published": true,
+                "us": false,
+                "class_sections": [
+                    "kz3c0cy14usa_ky7ls2h92kpwe"
+                ],
+                "facebook_id": null
+            },
+            {
+                "role": "student",
+                "name": "Wenjun Huang",
+                "endorser": {},
+                "admin": false,
+                "photo": null,
+                "id": "ky842ss47mvi9",
+                "photo_url": null,
+                "published": true,
+                "us": false,
+                "class_sections": [
+                    "kz3c0cy14usa_ky7ls2h92kpwe"
+                ],
+                "facebook_id": null
+            }
+        ],
+        "unique_views": 188,
+        "children": [
+            {
+                "history_size": 1,
+                "folders": [],
+                "data": {
+                    "embed_links": []
+                },
+                "created": "2022-03-22T22:10:03Z",
+                "bucket_order": 3,
+                "tag_endorse": [],
+                "bucket_name": "Today",
+                "history": [
+                    {
+                        "anon": "no",
+                        "uid": "ky7nqdhlj5y1bb",
+                        "subject": "",
+                        "created": "2022-03-22T22:10:03Z",
+                        "content": "<p>We talked about that in the &#34;Subword representation, contextualized representation&#34; lecture. Please refer to those slides.</p>"
+                    }
+                ],
+                "type": "i_answer",
+                "tag_endorse_arr": [],
+                "children": [],
+                "id": "l12owttfdea6kb",
+                "config": {
+                    "editor": "rte"
+                },
+                "is_tag_endorse": false
+            }
+        ],
+        "tag_good_arr": [
+            "ksq81rm5h8h3h2",
+            "ky842ss47mvi9"
+        ],
+        "no_answer": 0,
+        "id": "l104bc15rdx3wq",
+        "config": {
+            "editor": "rte",
+            "seen": {
+                "143": 7,
+                "265": 4,
+                "147": 6,
+                "568": 1,
+                "181": 2,
+                "407": 5,
+                "184": 3,
+                "251": 0
+            },
+            "has_emails_sent": 1
+        },
+        "status": "active",
+        "drafts": null,
+        "request_instructor": 0,
+        "request_instructor_me": false,
+        "bookmarked": 5,
+        "num_favorites": 0,
+        "my_favorite": false,
+        "is_bookmarked": false,
+        "is_tag_good": false,
+        "q_edits": [],
+        "i_edits": [],
+        "s_edits": [],
+        "t": 1668831548849,
+        "default_anonymity": "no"
+    },
+    {
+        "history_size": 1,
+        "folders": [
+            "coding3"
+        ],
+        "nr": 590,
+        "data": {
+            "embed_links": []
+        },
+        "created": "2022-03-20T21:09:10Z",
+        "bucket_order": 3,
+        "no_answer_followup": 1,
+        "change_log": [
+            {
+                "anon": "stud",
+                "data": "l0zrutt43tp552",
+                "v": "all",
+                "type": "create",
+                "when": "2022-03-20T21:09:10Z",
+                "uid_a": "a_0"
+            },
+            {
+                "anon": "stud",
+                "to": "l0zrutt2e53551",
+                "type": "followup",
+                "when": "2022-03-20T21:26:06Z",
+                "cid": "l0zsgm6wjac7w",
+                "uid_a": "a_1"
+            },
+            {
+                "anon": "no",
+                "uid": "ksmtgy6v4hn68b",
+                "data": "l12s7lmv9tb66o",
+                "to": "l0zrutt2e53551",
+                "type": "s_answer",
+                "when": "2022-03-22T23:42:24Z"
+            }
+        ],
+        "bucket_name": "Today",
+        "history": [
+            {
+                "anon": "stud",
+                "uid_a": "a_0",
+                "subject": "Overfitting?",
+                "created": "2022-03-20T21:09:10Z",
+                "content": "<p>Hi,</p>\n<p></p>\n<p>In this loss graph, the validation loss increases, but validation accuracy also increases. Is this overfitting or just the prediction power of classes shifting?</p>\n<p></p>\n<p>\u00a0<img src=\"/redirect/s3?bucket=uploads&amp;prefix=paste%2Fksko0389zsjrp%2F65b1a0fe02b033e6f526832dc5353c759cd35436b036d0a6957efb4df648357a%2F89.15_loss.PNG\" width=\"1280\" height=\"1075\" alt=\"\" /></p>"
+            }
+        ],
+        "type": "question",
+        "tags": [
+            "coding3",
+            "student"
+        ],
+        "tag_good": [
+            {
+                "role": "student",
+                "name": "Manav Jain",
+                "endorser": {},
+                "admin": false,
+                "photo": null,
+                "id": "ksq81ljra3l2x6",
+                "photo_url": null,
+                "published": true,
+                "us": false,
+                "facebook_id": null
+            },
+            {
+                "role": "student",
+                "name": "Suki Sahota",
+                "endorser": {
+                    "kduqixiw8sa0": 1602361030,
+                    "kjy03czf39s5k7": 1617253106
+                },
+                "admin": false,
+                "photo": "1598233641_200.jpg",
+                "id": "ke3d0dh2d64594",
+                "photo_url": "https://cdn-uploads.piazza.com/photos/ke3d0dh2d64594/1598233641_200.jpg",
+                "published": true,
+                "us": false,
+                "class_sections": [
+                    "kz3c0cy14usa_ky7ls2h92kpwe"
+                ],
+                "facebook_id": null
+            },
+            {
+                "role": "student",
+                "name": "Zhen Qin",
+                "endorser": {},
+                "admin": false,
+                "photo": null,
+                "id": "kafkedkj5zh7if",
+                "photo_url": null,
+                "published": true,
+                "us": false,
+                "facebook_id": null
+            }
+        ],
+        "unique_views": 187,
+        "children": [
+            {
+                "anon": "stud",
+                "folders": [],
+                "data": {
+                    "embed_links": null
+                },
+                "no_upvotes": 0,
+                "subject": "<p>I&#39;m also getting something like this. Is this actually an issue or can we get around this? Any suggestions?</p>",
+                "created": "2022-03-20T21:26:06Z",
+                "bucket_order": 5,
+                "bucket_name": "This week",
+                "type": "followup",
+                "tag_good": [],
+                "uid_a": "a_1",
+                "children": [],
+                "tag_good_arr": [],
+                "no_answer": 1,
+                "id": "l0zsgm6wjac7w",
+                "updated": "2022-03-20T21:26:06Z",
+                "config": {
+                    "editor": "rte"
+                }
+            },
+            {
+                "history_size": 1,
+                "folders": [],
+                "data": {
+                    "embed_links": []
+                },
+                "created": "2022-03-22T23:42:24Z",
+                "bucket_order": 3,
+                "tag_endorse": [],
+                "bucket_name": "Today",
+                "history": [
+                    {
+                        "anon": "no",
+                        "uid": "ksmtgy6v4hn68b",
+                        "subject": "",
+                        "created": "2022-03-22T23:42:24Z",
+                        "content": "<p>Refer this\u00a0<br /><br />https://stats.stackexchange.com/questions/282160/how-is-it-possible-that-validation-loss-is-increasing-while-validation-accuracy</p>"
+                    }
+                ],
+                "type": "s_answer",
+                "tag_endorse_arr": [],
+                "children": [],
+                "id": "l12s7lmsrcp66n",
+                "config": {
+                    "editor": "rte"
+                },
+                "is_tag_endorse": false
+            }
+        ],
+        "tag_good_arr": [
+            "ksq81ljra3l2x6",
+            "ke3d0dh2d64594",
+            "kafkedkj5zh7if"
+        ],
+        "no_answer": 0,
+        "id": "l0zrutt2e53551",
+        "config": {
+            "editor": "rte",
+            "seen": {
+                "563": 3,
+                "576": 1,
+                "566": 0,
+                "180": 5,
+                "518": 2,
+                "164": 4
+            },
+            "has_emails_sent": 1
+        },
+        "status": "active",
+        "drafts": null,
+        "request_instructor": 0,
+        "request_instructor_me": false,
+        "bookmarked": 7,
+        "num_favorites": 1,
+        "my_favorite": false,
+        "is_bookmarked": false,
+        "is_tag_good": false,
+        "q_edits": [],
+        "i_edits": [],
+        "s_edits": [],
+        "t": 1668831550955,
+        "default_anonymity": "no"
+    },
+    {
+        "history_size": 1,
+        "folders": [
+            "coding3"
+        ],
+        "nr": 576,
+        "data": {
+            "embed_links": []
+        },
+        "created": "2022-03-18T05:24:34Z",
+        "bucket_order": 3,
+        "no_answer_followup": 0,
+        "change_log": [
+            {
+                "anon": "no",
+                "uid": "ksq81ljra3l2x6",
+                "data": "l0vz8d765jsnn",
+                "v": "all",
+                "type": "create",
+                "when": "2022-03-18T05:24:34Z"
+            },
+            {
+                "anon": "stud",
+                "to": "l0vz8d74uv8nm",
+                "type": "followup",
+                "when": "2022-03-18T05:25:57Z",
+                "cid": "l0vza4z3rhx1kz",
+                "uid_a": "a_0"
+            },
+            {
+                "anon": "no",
+                "uid": "kskokov09275mn",
+                "data": "l0vzb3auzrq6nk",
+                "to": "l0vz8d74uv8nm",
+                "type": "s_answer",
+                "when": "2022-03-18T05:26:41Z"
+            },
+            {
+                "anon": "stud",
+                "to": "l0vz8d74uv8nm",
+                "type": "followup",
+                "when": "2022-03-18T05:46:33Z",
+                "cid": "l0w00mnnk1x35j",
+                "uid_a": "a_1"
+            },
+            {
+                "anon": "no",
+                "uid": "ky7nqdhlj5y1bb",
+                "to": "l0vz8d74uv8nm",
+                "type": "feedback",
+                "when": "2022-03-18T06:17:04Z",
+                "cid": "l0w13vvvetx65d"
+            }
+        ],
+        "bucket_name": "Today",
+        "history": [
+            {
+                "anon": "no",
+                "uid": "ksq81ljra3l2x6",
+                "subject": "With more epoch validation accuracy is going down  for dev set",
+                "created": "2022-03-18T05:24:34Z",
+                "content": "<p>Why is that with more epochs the validation accuracy goes down for dev set ? What&#39;s the reason behind it? Should I decrease the epoch value ? Will it work better on test set ?</p>\n<p></p>\n<p><img src=\"/redirect/s3?bucket=uploads&amp;prefix=paste%2Fksq81ljra3l2x6%2Faf5cbe6831a02e2571729813ab479ed861e99cb58ae18083e23abdc6b57c50b9%2Floss.JPG\" width=\"1517\" height=\"412\" alt=\"\" /></p>"
+            }
+        ],
+        "type": "question",
+        "tags": [
+            "coding3",
+            "student"
+        ],
+        "tag_good": [
+            {
+                "role": "student",
+                "name": "Suki Sahota",
+                "endorser": {
+                    "kduqixiw8sa0": 1602361030,
+                    "kjy03czf39s5k7": 1617253106
+                },
+                "admin": false,
+                "photo": "1598233641_200.jpg",
+                "id": "ke3d0dh2d64594",
+                "photo_url": "https://cdn-uploads.piazza.com/photos/ke3d0dh2d64594/1598233641_200.jpg",
+                "published": true,
+                "us": false,
+                "class_sections": [
+                    "kz3c0cy14usa_ky7ls2h92kpwe"
+                ],
+                "facebook_id": null
+            },
+            {
+                "role": "student",
+                "name": "Saujanya Mulukutla",
+                "endorser": {},
+                "admin": false,
+                "photo": null,
+                "id": "ksq81rm5h8h3h2",
+                "photo_url": null,
+                "published": true,
+                "us": false,
+                "class_sections": [
+                    "kz3c0cy14usa_ky7ls2h92kpwe"
+                ],
+                "facebook_id": null
+            }
+        ],
+        "unique_views": 184,
+        "children": [
+            {
+                "anon": "stud",
+                "folders": [],
+                "data": {
+                    "embed_links": null
+                },
+                "no_upvotes": 0,
+                "subject": "That\u2019s the case for me too.\u00a0",
+                "created": "2022-03-18T05:25:57Z",
+                "bucket_order": 6,
+                "bucket_name": "Last week",
+                "type": "followup",
+                "tag_good": [],
+                "uid_a": "a_0",
+                "children": [],
+                "tag_good_arr": [],
+                "no_answer": 0,
+                "id": "l0vza4z3rhx1kz",
+                "updated": "2022-03-18T05:25:57Z",
+                "config": {}
+            },
+            {
+                "history_size": 1,
+                "folders": [],
+                "data": {
+                    "embed_links": []
+                },
+                "created": "2022-03-18T05:26:41Z",
+                "bucket_order": 3,
+                "tag_endorse": [
+                    {
+                        "role": "instructor",
+                        "name": "Muhao Chen",
+                        "endorser": {},
+                        "admin": true,
+                        "photo": null,
+                        "id": "ky7nqdhlj5y1bb",
+                        "photo_url": null,
+                        "us": false,
+                        "class_sections": [
+                            "kz3c0cy14usa_ky7ls2h92kpwe"
+                        ],
+                        "facebook_id": null
+                    },
+                    {
+                        "role": "student",
+                        "name": "Manav Jain",
+                        "endorser": {},
+                        "admin": false,
+                        "photo": null,
+                        "id": "ksq81ljra3l2x6",
+                        "photo_url": null,
+                        "published": true,
+                        "us": false,
+                        "facebook_id": null
+                    },
+                    {
+                        "role": "student",
+                        "name": "Suki Sahota",
+                        "endorser": {
+                            "kduqixiw8sa0": 1602361030,
+                            "kjy03czf39s5k7": 1617253106
+                        },
+                        "admin": false,
+                        "photo": "1598233641_200.jpg",
+                        "id": "ke3d0dh2d64594",
+                        "photo_url": "https://cdn-uploads.piazza.com/photos/ke3d0dh2d64594/1598233641_200.jpg",
+                        "published": true,
+                        "us": false,
+                        "class_sections": [
+                            "kz3c0cy14usa_ky7ls2h92kpwe"
+                        ],
+                        "facebook_id": null
+                    }
+                ],
+                "bucket_name": "Today",
+                "history": [
+                    {
+                        "anon": "no",
+                        "uid": "kskokov09275mn",
+                        "subject": "",
+                        "created": "2022-03-18T05:26:41Z",
+                        "content": "this is the case of overfitting. Over a certain number of epochs, the model starts to capture the noise in the training data and thus resulting in low accuracy in validation data.\u00a0"
+                    }
+                ],
+                "type": "s_answer",
+                "tag_endorse_arr": [
+                    "ky7nqdhlj5y1bb",
+                    "ksq81ljra3l2x6",
+                    "ke3d0dh2d64594"
+                ],
+                "children": [],
+                "id": "l0vzb3asupn6nj",
+                "config": {},
+                "is_tag_endorse": false
+            },
+            {
+                "anon": "stud",
+                "folders": [],
+                "data": {
+                    "embed_links": null
+                },
+                "no_upvotes": 0,
+                "subject": "You can try using EarlyStopping.",
+                "created": "2022-03-18T05:46:33Z",
+                "bucket_order": 6,
+                "bucket_name": "Last week",
+                "type": "followup",
+                "tag_good": [
+                    {
+                        "role": "student",
+                        "name": "Suki Sahota",
+                        "endorser": {
+                            "kduqixiw8sa0": 1602361030,
+                            "kjy03czf39s5k7": 1617253106
+                        },
+                        "admin": false,
+                        "photo": "1598233641_200.jpg",
+                        "id": "ke3d0dh2d64594",
+                        "photo_url": "https://cdn-uploads.piazza.com/photos/ke3d0dh2d64594/1598233641_200.jpg",
+                        "published": true,
+                        "us": false,
+                        "class_sections": [
+                            "kz3c0cy14usa_ky7ls2h92kpwe"
+                        ],
+                        "facebook_id": null
+                    },
+                    {
+                        "role": "student",
+                        "name": "Saujanya Mulukutla",
+                        "endorser": {},
+                        "admin": false,
+                        "photo": null,
+                        "id": "ksq81rm5h8h3h2",
+                        "photo_url": null,
+                        "published": true,
+                        "us": false,
+                        "class_sections": [
+                            "kz3c0cy14usa_ky7ls2h92kpwe"
+                        ],
+                        "facebook_id": null
+                    }
+                ],
+                "uid_a": "a_1",
+                "children": [
+                    {
+                        "anon": "no",
+                        "folders": [],
+                        "data": {
+                            "embed_links": null
+                        },
+                        "subject": "<p>Exactly</p>",
+                        "created": "2022-03-18T06:17:04Z",
+                        "bucket_order": 6,
+                        "bucket_name": "Last week",
+                        "type": "feedback",
+                        "tag_good": [
+                            {
+                                "role": "student",
+                                "name": "Suki Sahota",
+                                "endorser": {
+                                    "kduqixiw8sa0": 1602361030,
+                                    "kjy03czf39s5k7": 1617253106
+                                },
+                                "admin": false,
+                                "photo": "1598233641_200.jpg",
+                                "id": "ke3d0dh2d64594",
+                                "photo_url": "https://cdn-uploads.piazza.com/photos/ke3d0dh2d64594/1598233641_200.jpg",
+                                "published": true,
+                                "us": false,
+                                "class_sections": [
+                                    "kz3c0cy14usa_ky7ls2h92kpwe"
+                                ],
+                                "facebook_id": null
+                            }
+                        ],
+                        "uid": "ky7nqdhlj5y1bb",
+                        "children": [],
+                        "tag_good_arr": [
+                            "ke3d0dh2d64594"
+                        ],
+                        "id": "l0w13vvvetx65d",
+                        "updated": "2022-03-18T06:17:04Z",
+                        "config": {
+                            "editor": "rte"
+                        }
+                    }
+                ],
+                "tag_good_arr": [
+                    "ke3d0dh2d64594",
+                    "ksq81rm5h8h3h2"
+                ],
+                "no_answer": 0,
+                "id": "l0w00mnnk1x35j",
+                "updated": "2022-03-18T05:46:33Z",
+                "config": {}
+            }
+        ],
+        "tag_good_arr": [
+            "ke3d0dh2d64594",
+            "ksq81rm5h8h3h2"
+        ],
+        "no_answer": 0,
+        "id": "l0vz8d74uv8nm",
+        "config": {
+            "editor": "rte",
+            "seen": {
+                "220": 4,
+                "563": 1,
+                "432": 6,
+                "136": 2,
+                "346": 3,
+                "566": 0,
+                "219": 5
+            },
+            "has_emails_sent": 1
+        },
+        "status": "active",
+        "drafts": null,
+        "request_instructor": 0,
+        "request_instructor_me": false,
+        "bookmarked": 8,
+        "num_favorites": 0,
+        "my_favorite": false,
+        "is_bookmarked": false,
+        "is_tag_good": false,
+        "q_edits": [],
+        "i_edits": [],
+        "s_edits": [],
+        "t": 1668831553062,
+        "default_anonymity": "no"
+    },
+    {
+        "history_size": 1,
+        "folders": [
+            "coding3",
+            "other"
+        ],
+        "nr": 570,
+        "data": {
+            "embed_links": []
+        },
+        "created": "2022-03-17T15:21:09Z",
+        "bucket_order": 3,
+        "no_answer_followup": 0,
+        "change_log": [
+            {
+                "anon": "stud",
+                "data": "l0v53q3zl724n2",
+                "v": "all",
+                "type": "create",
+                "when": "2022-03-17T15:21:09Z",
+                "uid_a": "a_0"
+            },
+            {
+                "anon": "stud",
+                "data": "l0vadauyz0t1jm",
+                "to": "l0v53q3wopb4n1",
+                "type": "s_answer",
+                "when": "2022-03-17T17:48:34Z",
+                "uid_a": "a_1"
+            }
+        ],
+        "bucket_name": "Today",
+        "history": [
+            {
+                "anon": "stud",
+                "uid_a": "a_0",
+                "subject": "KNN classification K = 1",
+                "created": "2022-03-17T15:21:09Z",
+                "content": "Is there a situation that using k = 1 is acceptable for KNN. If k=1 gives the highest model performance on an \u201cunseen\u201d dev set, does it make sense to use k=1?"
+            }
+        ],
+        "type": "question",
+        "tags": [
+            "coding3",
+            "other",
+            "student"
+        ],
+        "tag_good": [],
+        "unique_views": 180,
+        "children": [
+            {
+                "history_size": 1,
+                "folders": [],
+                "data": {
+                    "embed_links": []
+                },
+                "created": "2022-03-17T17:48:34Z",
+                "bucket_order": 3,
+                "tag_endorse": [
+                    {
+                        "role": "instructor",
+                        "name": "Muhao Chen",
+                        "endorser": {},
+                        "admin": true,
+                        "photo": null,
+                        "id": "ky7nqdhlj5y1bb",
+                        "photo_url": null,
+                        "us": false,
+                        "class_sections": [
+                            "kz3c0cy14usa_ky7ls2h92kpwe"
+                        ],
+                        "facebook_id": null
+                    }
+                ],
+                "bucket_name": "Today",
+                "history": [
+                    {
+                        "anon": "stud",
+                        "uid_a": "a_1",
+                        "subject": "",
+                        "created": "2022-03-17T17:48:34Z",
+                        "content": "<p>In that case you don\u2019t really need to think about using an ML model. If your real world data maps 1:1 to your train data, you might as well write a SQL(Elasticsearch would be better) query with training data as your database.\u00a0</p>"
+                    }
+                ],
+                "type": "s_answer",
+                "tag_endorse_arr": [
+                    "ky7nqdhlj5y1bb"
+                ],
+                "children": [],
+                "id": "l0vadauvhvp1jl",
+                "config": {
+                    "editor": "rte"
+                },
+                "is_tag_endorse": false
+            }
+        ],
+        "tag_good_arr": [],
+        "no_answer": 0,
+        "id": "l0v53q3wopb4n1",
+        "config": {
+            "has_emails_sent": 1
+        },
+        "status": "active",
+        "drafts": null,
+        "request_instructor": 0,
+        "request_instructor_me": false,
+        "bookmarked": 5,
+        "num_favorites": 0,
+        "my_favorite": false,
+        "is_bookmarked": false,
+        "is_tag_good": false,
+        "q_edits": [],
+        "i_edits": [],
+        "s_edits": [],
+        "t": 1668831555173,
+        "default_anonymity": "no"
+    },
+    {
+        "history_size": 1,
+        "folders": [
+            "other",
+            "presentations"
+        ],
+        "nr": 544,
+        "data": {
+            "embed_links": []
+        },
+        "created": "2022-03-11T03:10:23Z",
+        "bucket_order": 3,
+        "no_answer_followup": 0,
+        "change_log": [
+            {
+                "anon": "stud",
+                "data": "l0lucupvo9v1m5",
+                "v": "all",
+                "type": "create",
+                "when": "2022-03-11T03:10:23Z",
+                "uid_a": "a_0"
+            },
+            {
+                "anon": "no",
+                "uid": "ixm5rfb79wz6t",
+                "data": "l0luxqgvd494ls",
+                "to": "l0lucupsfmb1m4",
+                "type": "i_answer",
+                "when": "2022-03-11T03:26:38Z"
+            }
+        ],
+        "bucket_name": "Today",
+        "history": [
+            {
+                "anon": "stud",
+                "uid_a": "a_0",
+                "subject": "Inter-rather agreement vs inter-annotator agreement",
+                "created": "2022-03-11T03:10:23Z",
+                "content": "Hello,<div><br /></div><div>Are these two terms the same thing \u2014 just IAA being a bit more specified for annotation? Otherwise I\u2019ve seen them be used interchangeably in many places, and are measures with the same method\u2019s, like Cohen\u2019s kappa.\u00a0</div>"
+            }
+        ],
+        "type": "question",
+        "tags": [
+            "other",
+            "presentations",
+            "student"
+        ],
+        "tag_good": [],
+        "unique_views": 145,
+        "children": [
+            {
+                "history_size": 1,
+                "folders": [],
+                "data": {
+                    "embed_links": []
+                },
+                "created": "2022-03-11T03:26:38Z",
+                "bucket_order": 3,
+                "tag_endorse": [
+                    {
+                        "role": "student",
+                        "name": "Alain Tamazian",
+                        "endorser": {
+                            "kskhsexoc9l3ut": 1635188952,
+                            "ky7ls2h92kpwe": 1643407723,
+                            "ky5c1oy0j5h2p6": 1646251931
+                        },
+                        "admin": false,
+                        "photo": null,
+                        "id": "jkunt427lzw6hn",
+                        "photo_url": null,
+                        "published": true,
+                        "us": false,
+                        "facebook_id": null
+                    }
+                ],
+                "bucket_name": "Today",
+                "history": [
+                    {
+                        "anon": "no",
+                        "uid": "ixm5rfb79wz6t",
+                        "subject": "",
+                        "created": "2022-03-11T03:26:38Z",
+                        "content": "<p>Same</p>"
+                    }
+                ],
+                "type": "i_answer",
+                "tag_endorse_arr": [
+                    "jkunt427lzw6hn"
+                ],
+                "children": [],
+                "id": "l0luxqgtcz4lr",
+                "config": {
+                    "editor": "rte"
+                },
+                "is_tag_endorse": false
+            }
+        ],
+        "tag_good_arr": [],
+        "no_answer": 0,
+        "id": "l0lucupsfmb1m4",
+        "config": {
+            "has_emails_sent": 1
+        },
+        "status": "active",
+        "drafts": null,
+        "request_instructor": 0,
+        "request_instructor_me": false,
+        "bookmarked": 5,
+        "num_favorites": 1,
+        "my_favorite": false,
+        "is_bookmarked": false,
+        "is_tag_good": false,
+        "q_edits": [],
+        "i_edits": [],
+        "s_edits": [],
+        "t": 1668831557296,
+        "default_anonymity": "no"
+    },
+    {
+        "history_size": 1,
+        "folders": [
+            "coding3",
+            "project"
+        ],
+        "nr": 487,
+        "data": {
+            "embed_links": []
+        },
+        "created": "2022-03-03T00:47:08Z",
+        "bucket_order": 3,
+        "no_answer_followup": 0,
+        "change_log": [
+            {
+                "anon": "stud",
+                "data": "l0a9pszvmvb3mm",
+                "v": "all",
+                "type": "create",
+                "when": "2022-03-03T00:47:08Z",
+                "uid_a": "a_0"
+            },
+            {
+                "anon": "stud",
+                "to": "l0a9pszscw3ml",
+                "type": "followup",
+                "when": "2022-03-03T06:14:38Z",
+                "cid": "l0aleyz3m9o3qa",
+                "uid_a": "a_1"
+            },
+            {
+                "anon": "no",
+                "uid": "jl5d6vu7o1zxz",
+                "data": "l0bf8k7o5lk5fe",
+                "to": "l0a9pszscw3ml",
+                "type": "i_answer",
+                "when": "2022-03-03T20:09:27Z"
+            }
+        ],
+        "bucket_name": "Today",
+        "history": [
+            {
+                "anon": "stud",
+                "uid_a": "a_0",
+                "subject": "TensorFlow or PyTorch?",
+                "created": "2022-03-03T00:47:08Z",
+                "content": "<p>Hello,</p>\n<p></p>\n<p>TensorFlow and PyTorch seem to be the most popular ML libraries today. Is there any recommendation on what is more suitable for NLP tasks?</p>\n<p></p>\n<p>In terms of learning curve, industry-relevance, ease of deployment, etc.?</p>\n<p></p>\n<p>Thanks.</p>"
+            }
+        ],
+        "type": "question",
+        "tags": [
+            "coding3",
+            "project",
+            "student"
+        ],
+        "tag_good": [
+            {
+                "role": "student",
+                "name": "Paritosh Singh",
+                "endorser": {},
+                "admin": false,
+                "photo": null,
+                "id": "kstgd1sje85lq",
+                "photo_url": null,
+                "published": true,
+                "us": false,
+                "facebook_id": null
+            },
+            {
+                "role": "student",
+                "name": "Nguyen Cong Dat",
+                "endorser": {},
+                "admin": false,
+                "photo": "1643130688_200.jpg",
+                "id": "ke743sn4rboc0",
+                "photo_url": "https://cdn-uploads.piazza.com/photos/ke743sn4rboc0/1643130688_200.jpg",
+                "published": true,
+                "us": false,
+                "facebook_id": null
+            }
+        ],
+        "unique_views": 219,
+        "children": [
+            {
+                "anon": "stud",
+                "folders": [],
+                "data": {
+                    "embed_links": null
+                },
+                "no_upvotes": 0,
+                "subject": "<p>Pytorch</p>",
+                "created": "2022-03-03T06:14:38Z",
+                "bucket_order": 6,
+                "bucket_name": "Last week",
+                "type": "followup",
+                "tag_good": [],
+                "uid_a": "a_1",
+                "children": [],
+                "tag_good_arr": [],
+                "no_answer": 0,
+                "id": "l0aleyz3m9o3qa",
+                "updated": "2022-03-03T06:14:38Z",
+                "config": {
+                    "editor": "rte"
+                }
+            },
+            {
+                "history_size": 1,
+                "folders": [],
+                "data": {
+                    "embed_links": []
+                },
+                "created": "2022-03-03T20:09:27Z",
+                "bucket_order": 3,
+                "tag_endorse": [
+                    {
+                        "role": "student",
+                        "name": "Nguyen Cong Dat",
+                        "endorser": {},
+                        "admin": false,
+                        "photo": "1643130688_200.jpg",
+                        "id": "ke743sn4rboc0",
+                        "photo_url": "https://cdn-uploads.piazza.com/photos/ke743sn4rboc0/1643130688_200.jpg",
+                        "published": true,
+                        "us": false,
+                        "facebook_id": null
+                    },
+                    {
+                        "role": "student",
+                        "name": "Vinay Gupta",
+                        "endorser": {
+                            "ky7ls2h92kpwe": 1642788852
+                        },
+                        "admin": false,
+                        "photo": null,
+                        "id": "ksqzoiyhuaf693",
+                        "photo_url": null,
+                        "published": true,
+                        "us": false,
+                        "facebook_id": null
+                    },
+                    {
+                        "role": "student",
+                        "name": "Sruthi Venkatavaradan",
+                        "endorser": {},
+                        "admin": false,
+                        "photo": null,
+                        "id": "ksgixuchero4en",
+                        "photo_url": null,
+                        "published": true,
+                        "us": false,
+                        "facebook_id": null
+                    },
+                    {
+                        "role": "student",
+                        "name": "Zhi Tu",
+                        "endorser": {},
+                        "admin": false,
+                        "photo": null,
+                        "id": "isyo9ikg79513j",
+                        "photo_url": null,
+                        "published": true,
+                        "us": false,
+                        "facebook_id": null
+                    }
+                ],
+                "bucket_name": "Today",
+                "history": [
+                    {
+                        "anon": "no",
+                        "uid": "jl5d6vu7o1zxz",
+                        "subject": "",
+                        "created": "2022-03-03T20:09:27Z",
+                        "content": "<p>Historically, PyTorch had a better performance on recursive networks (e.g. LSTM) that were dominant before transformers, but they are both pretty good now. I personally use PyTorch as it feels more natural to me but TF2.0 is also pretty mature and powerful once you get into the mindset. I cannot comment about industry usage. So just pick one.</p>"
+                    }
+                ],
+                "type": "i_answer",
+                "tag_endorse_arr": [
+                    "ke743sn4rboc0",
+                    "ksqzoiyhuaf693",
+                    "ksgixuchero4en",
+                    "isyo9ikg79513j"
+                ],
+                "children": [],
+                "id": "l0bf8k7lg7a5fd",
+                "config": {
+                    "editor": "rte"
+                },
+                "is_tag_endorse": false
+            }
+        ],
+        "tag_good_arr": [
+            "kstgd1sje85lq",
+            "ke743sn4rboc0"
+        ],
+        "no_answer": 0,
+        "id": "l0a9pszscw3ml",
+        "config": {
+            "editor": "rte",
+            "seen": {
+                "56": 4,
+                "331": 2,
+                "68": 1,
+                "278": 3,
+                "337": 5,
+                "282": 0
+            },
+            "has_emails_sent": 1
+        },
+        "status": "active",
+        "drafts": null,
+        "request_instructor": 0,
+        "request_instructor_me": false,
+        "bookmarked": 5,
+        "num_favorites": 3,
+        "my_favorite": false,
+        "is_bookmarked": false,
+        "is_tag_good": false,
+        "q_edits": [],
+        "i_edits": [],
+        "s_edits": [],
+        "t": 1668831559424,
+        "default_anonymity": "no"
+    },
+    {
+        "history_size": 1,
+        "folders": [
+            "coding2"
+        ],
+        "nr": 382,
+        "data": {
+            "embed_links": []
+        },
+        "created": "2022-02-16T15:55:52Z",
+        "bucket_order": 3,
+        "no_answer_followup": 0,
+        "change_log": [
+            {
+                "anon": "stud",
+                "data": "kzpqknwn34vmo",
+                "v": "all",
+                "type": "create",
+                "when": "2022-02-16T15:55:52Z",
+                "uid_a": "a_0"
+            },
+            {
+                "anon": "no",
+                "uid": "ks8743xgppd5fo",
+                "data": "kzpx4asb6dw5ns",
+                "to": "kzpqknwli5qmm",
+                "type": "s_answer",
+                "when": "2022-02-16T18:59:06Z"
+            }
+        ],
+        "bucket_name": "Today",
+        "history": [
+            {
+                "anon": "stud",
+                "uid_a": "a_0",
+                "subject": "POS Tagging: Preprocessing",
+                "created": "2022-02-16T15:55:52Z",
+                "content": "Is preprocessing generally done with POS Tagging? Such as removing stop words, removing punctuations, or stemming to name a few.<div><br /></div><div>Thanks</div>"
+            }
+        ],
+        "type": "question",
+        "tags": [
+            "coding2",
+            "student"
+        ],
+        "tag_good": [],
+        "unique_views": 147,
+        "children": [
+            {
+                "history_size": 1,
+                "folders": [],
+                "data": {
+                    "embed_links": []
+                },
+                "created": "2022-02-16T18:59:06Z",
+                "bucket_order": 3,
+                "tag_endorse": [
+                    {
+                        "role": "professor",
+                        "name": "Ron Artstein",
+                        "endorser": {},
+                        "admin": true,
+                        "photo": null,
+                        "id": "ixm5rfb79wz6t",
+                        "photo_url": null,
+                        "us": false,
+                        "class_sections": [
+                            "kz3c0cy14usa_ky7ls2h92kpwe"
+                        ],
+                        "facebook_id": null
+                    },
+                    {
+                        "role": "student",
+                        "name": "Alain Tamazian",
+                        "endorser": {
+                            "kskhsexoc9l3ut": 1635188952,
+                            "ky7ls2h92kpwe": 1643407723
+                        },
+                        "admin": false,
+                        "photo": null,
+                        "id": "jkunt427lzw6hn",
+                        "photo_url": null,
+                        "published": true,
+                        "us": false,
+                        "facebook_id": null
+                    }
+                ],
+                "bucket_name": "Today",
+                "history": [
+                    {
+                        "anon": "no",
+                        "uid": "ks8743xgppd5fo",
+                        "subject": "",
+                        "created": "2022-02-16T18:59:06Z",
+                        "content": "I don&#39;t think we are supposed to do this because stopwords too have a part of speech associated with them. So we are needed to predict that. Also, these stopwords and predictions define the probability of certain POS, if you remove them you model will not take this into account. Certain POS can have more probability to end or start the sentence than others. Removing stopwords, punctuation etc will ignore this. \n\nI think stemming too shouldn&#39;t be done as it can change the POS tag. Please correct me if I am wrong."
+                    }
+                ],
+                "type": "s_answer",
+                "tag_endorse_arr": [
+                    "ixm5rfb79wz6t",
+                    "jkunt427lzw6hn"
+                ],
+                "children": [],
+                "id": "kzpx4as8nb95nr",
+                "config": {
+                    "editor": "plain"
+                },
+                "is_tag_endorse": false
+            }
+        ],
+        "tag_good_arr": [],
+        "no_answer": 0,
+        "id": "kzpqknwli5qmm",
+        "config": {
+            "has_emails_sent": 1
+        },
+        "status": "active",
+        "drafts": null,
+        "request_instructor": 0,
+        "request_instructor_me": false,
+        "bookmarked": 5,
+        "num_favorites": 1,
+        "my_favorite": false,
+        "is_bookmarked": false,
+        "is_tag_good": false,
+        "q_edits": [],
+        "i_edits": [],
+        "s_edits": [],
+        "t": 1668831561534,
+        "default_anonymity": "no"
+    },
+    {
+        "history_size": 1,
+        "folders": [
+            "other"
+        ],
+        "nr": 268,
+        "data": {
+            "embed_links": []
+        },
+        "created": "2022-02-07T07:29:31Z",
+        "bucket_order": 3,
+        "no_answer_followup": 0,
+        "change_log": [
+            {
+                "anon": "stud",
+                "data": "kzcdiu2fiq040o",
+                "v": "all",
+                "type": "create",
+                "when": "2022-02-07T07:29:31Z",
+                "uid_a": "a_0"
+            },
+            {
+                "anon": "no",
+                "uid": "ky7nqdhlj5y1bb",
+                "data": "kzck13q08n167i",
+                "to": "kzcdiu2dbjb40n",
+                "type": "i_answer",
+                "when": "2022-02-07T10:31:41Z"
+            }
+        ],
+        "bucket_name": "Today",
+        "history": [
+            {
+                "anon": "stud",
+                "uid_a": "a_0",
+                "subject": "Does encoder (decoder) imply a specific model or just a general speaking of sentence representation?",
+                "created": "2022-02-07T07:29:31Z",
+                "content": "<p>In the class, prof. Chen talked about Bi-encoder &amp; Cross-encoder, and I am confused that if the encoder is a specific model or it could be any kind of sentence representation method? For example, the output of LSTM, or CNN, or self-attention? Since the key word &#34;encoder&#34; (and &#34;decoder&#34;) was mentioned several times during the lecture, I want to figure out what it really means.</p>\n<p></p>\n<p>Thanks in advance!</p>"
+            }
+        ],
+        "type": "question",
+        "tags": [
+            "other",
+            "student"
+        ],
+        "tag_good": [],
+        "unique_views": 151,
+        "children": [
+            {
+                "history_size": 1,
+                "folders": [],
+                "data": {
+                    "embed_links": []
+                },
+                "created": "2022-02-07T10:31:41Z",
+                "bucket_order": 3,
+                "tag_endorse": [
+                    {
+                        "role": "student",
+                        "name": "Fanyou Meng",
+                        "endorser": {},
+                        "admin": false,
+                        "photo": null,
+                        "id": "kstgd8dnb3d62e",
+                        "photo_url": null,
+                        "published": true,
+                        "us": false,
+                        "facebook_id": null
+                    }
+                ],
+                "bucket_name": "Today",
+                "history": [
+                    {
+                        "anon": "no",
+                        "uid": "ky7nqdhlj5y1bb",
+                        "subject": "",
+                        "created": "2022-02-07T10:31:41Z",
+                        "content": "<p>Any kind of sequence encoders: CNNs, LSTMs, Self-attention encoders or Transformers (multi-head attention).</p>\n<p>Note that cross-encoder architectures usually use attention encoders nowadays.</p>"
+                    }
+                ],
+                "type": "i_answer",
+                "tag_endorse_arr": [
+                    "kstgd8dnb3d62e"
+                ],
+                "children": [],
+                "id": "kzck13px1mq67h",
+                "config": {
+                    "editor": "rte"
+                },
+                "is_tag_endorse": false
+            }
+        ],
+        "tag_good_arr": [],
+        "no_answer": 0,
+        "id": "kzcdiu2dbjb40n",
+        "config": {
+            "editor": "rte",
+            "seen": {
+                "253": 1,
+                "122": 2,
+                "169": 3,
+                "127": 4,
+                "128": 5,
+                "249": 0
+            },
+            "has_emails_sent": 1
+        },
+        "status": "active",
+        "drafts": null,
+        "request_instructor": 0,
+        "request_instructor_me": false,
+        "bookmarked": 5,
+        "num_favorites": 1,
+        "my_favorite": false,
+        "is_bookmarked": false,
+        "is_tag_good": false,
+        "q_edits": [],
+        "i_edits": [],
+        "s_edits": [],
+        "t": 1668831563644,
+        "default_anonymity": "no"
+    },
+    {
+        "history_size": 1,
+        "folders": [
+            "other"
+        ],
+        "nr": 255,
+        "data": {
+            "embed_links": []
+        },
+        "created": "2022-02-04T21:12:00Z",
+        "bucket_order": 3,
+        "no_answer_followup": 0,
+        "change_log": [
+            {
+                "anon": "stud",
+                "data": "kz8wkzy2a7x6iv",
+                "v": "all",
+                "type": "create",
+                "when": "2022-02-04T21:12:00Z",
+                "uid_a": "a_0"
+            },
+            {
+                "anon": "no",
+                "uid": "j6l9g2b9sl930y",
+                "data": "kz8yxkomc1o2th",
+                "to": "kz8wkzy0fu06iu",
+                "type": "i_answer",
+                "when": "2022-02-04T22:17:46Z"
+            }
+        ],
+        "bucket_name": "Today",
+        "history": [
+            {
+                "anon": "stud",
+                "uid_a": "a_0",
+                "subject": "Vanishing Gradient",
+                "created": "2022-02-04T21:12:00Z",
+                "content": "Do all models that use gradient descent, have a vanishing gradient problem?"
+            }
+        ],
+        "type": "question",
+        "tags": [
+            "other",
+            "student"
+        ],
+        "tag_good": [
+            {
+                "role": "student",
+                "name": "Suki Sahota",
+                "endorser": {
+                    "kduqixiw8sa0": 1602361030,
+                    "kjy03czf39s5k7": 1617253106
+                },
+                "admin": false,
+                "photo": "1598233641_200.jpg",
+                "id": "ke3d0dh2d64594",
+                "photo_url": "https://cdn-uploads.piazza.com/photos/ke3d0dh2d64594/1598233641_200.jpg",
+                "published": true,
+                "us": false,
+                "class_sections": [
+                    "kz3c0cy14usa_ky7ls2h92kpwe"
+                ],
+                "facebook_id": null
+            }
+        ],
+        "unique_views": 148,
+        "children": [
+            {
+                "history_size": 1,
+                "folders": [],
+                "data": {
+                    "embed_links": []
+                },
+                "created": "2022-02-04T22:17:46Z",
+                "bucket_order": 3,
+                "tag_endorse": [
+                    {
+                        "role": "student",
+                        "name": "Fanyou Meng",
+                        "endorser": {},
+                        "admin": false,
+                        "photo": null,
+                        "id": "kstgd8dnb3d62e",
+                        "photo_url": null,
+                        "published": true,
+                        "us": false,
+                        "facebook_id": null
+                    }
+                ],
+                "bucket_name": "Today",
+                "history": [
+                    {
+                        "anon": "no",
+                        "uid": "j6l9g2b9sl930y",
+                        "subject": "",
+                        "created": "2022-02-04T22:17:46Z",
+                        "content": "<p>It depends on the depth of the neural networks. Consider a one-layer NN, there is no vanishing gradient problem. However, for a very depth model (consider a 100-layer fully connected NN), it is higher chance that there is a vanishing gradient problem.</p>"
+                    }
+                ],
+                "type": "i_answer",
+                "tag_endorse_arr": [
+                    "kstgd8dnb3d62e"
+                ],
+                "children": [],
+                "id": "kz8yxkojam52tg",
+                "config": {
+                    "editor": "rte"
+                },
+                "is_tag_endorse": false
+            }
+        ],
+        "tag_good_arr": [
+            "ke3d0dh2d64594"
+        ],
+        "no_answer": 0,
+        "id": "kz8wkzy0fu06iu",
+        "config": {
+            "has_emails_sent": 1
+        },
+        "status": "active",
+        "drafts": null,
+        "request_instructor": 0,
+        "request_instructor_me": false,
+        "bookmarked": 5,
+        "num_favorites": 0,
+        "my_favorite": false,
+        "is_bookmarked": false,
+        "is_tag_good": false,
+        "q_edits": [],
+        "i_edits": [],
+        "s_edits": [],
+        "t": 1668831565755,
+        "default_anonymity": "no"
+    },
+    {
+        "history_size": 1,
+        "folders": [
+            "presentations"
+        ],
+        "nr": 251,
+        "data": {
+            "embed_links": []
+        },
+        "created": "2022-02-04T02:31:08Z",
+        "bucket_order": 3,
+        "no_answer_followup": 0,
+        "change_log": [
+            {
+                "anon": "stud",
+                "data": "kz7sjkbtmo419q",
+                "v": "all",
+                "type": "create",
+                "when": "2022-02-04T02:31:08Z",
+                "uid_a": "a_0"
+            },
+            {
+                "anon": "stud",
+                "data": "kz7v5r3j1qj472",
+                "to": "kz7sjkbrmc219p",
+                "type": "s_answer",
+                "when": "2022-02-04T03:44:23Z",
+                "uid_a": "a_1"
+            }
+        ],
+        "bucket_name": "Today",
+        "history": [
+            {
+                "anon": "stud",
+                "uid_a": "a_0",
+                "subject": "Query regarding RNNs",
+                "created": "2022-02-04T02:31:08Z",
+                "content": "<p>Do RNNs have a fixed vocabulary limitation ?\u00a0</p>"
+            }
+        ],
+        "type": "question",
+        "tags": [
+            "presentations",
+            "student"
+        ],
+        "tag_good": [],
+        "unique_views": 148,
+        "children": [
+            {
+                "history_size": 1,
+                "folders": [],
+                "data": {
+                    "embed_links": []
+                },
+                "created": "2022-02-04T03:44:23Z",
+                "bucket_order": 3,
+                "tag_endorse": [
+                    {
+                        "role": "instructor",
+                        "name": "Muhao Chen",
+                        "endorser": {},
+                        "admin": true,
+                        "photo": null,
+                        "id": "ky7nqdhlj5y1bb",
+                        "photo_url": null,
+                        "us": false,
+                        "class_sections": [
+                            "kz3c0cy14usa_ky7ls2h92kpwe"
+                        ],
+                        "facebook_id": null
+                    }
+                ],
+                "bucket_name": "Today",
+                "history": [
+                    {
+                        "anon": "stud",
+                        "uid_a": "a_1",
+                        "subject": "",
+                        "created": "2022-02-04T03:44:23Z",
+                        "content": "<p>Depends. An RNN is simply a sequence model. If your input can handle OOV tokens (eg. passing fasttext embs to RNN), then then the answer is no.</p>\n<p>If you\u2019re simply using something like word2vec or one hot then yes.</p>"
+                    }
+                ],
+                "type": "s_answer",
+                "tag_endorse_arr": [
+                    "ky7nqdhlj5y1bb"
+                ],
+                "children": [],
+                "id": "kz7v5r3gfu7471",
+                "config": {
+                    "editor": "rte"
+                },
+                "is_tag_endorse": false
+            }
+        ],
+        "tag_good_arr": [],
+        "no_answer": 0,
+        "id": "kz7sjkbrmc219p",
+        "config": {
+            "editor": "rte",
+            "seen": {
+                "199": 3,
+                "167": 7,
+                "249": 1,
+                "108": 6,
+                "181": 4,
+                "184": 2,
+                "250": 0,
+                "153": 5
+            },
+            "has_emails_sent": 1
+        },
+        "status": "active",
+        "drafts": null,
+        "request_instructor": 0,
+        "request_instructor_me": false,
+        "bookmarked": 5,
+        "num_favorites": 0,
+        "my_favorite": false,
+        "is_bookmarked": false,
+        "is_tag_good": false,
+        "q_edits": [],
+        "i_edits": [],
+        "s_edits": [],
+        "t": 1668831567862,
+        "default_anonymity": "no"
+    },
+    {
+        "history_size": 1,
+        "folders": [
+            "quizzes"
+        ],
+        "nr": 243,
+        "data": {
+            "embed_links": []
+        },
+        "created": "2022-02-03T21:13:58Z",
+        "bucket_order": 3,
+        "no_answer_followup": 0,
+        "change_log": [
+            {
+                "anon": "stud",
+                "data": "kz7h7nycmhq38g",
+                "v": "all",
+                "type": "create",
+                "when": "2022-02-03T21:13:58Z",
+                "uid_a": "a_0"
+            },
+            {
+                "anon": "no",
+                "uid": "j6l9g2b9sl930y",
+                "data": "kz8zdo2wz2x6ol",
+                "to": "kz7h7nybovp38f",
+                "type": "i_answer",
+                "when": "2022-02-04T22:30:17Z"
+            }
+        ],
+        "bucket_name": "Today",
+        "history": [
+            {
+                "anon": "stud",
+                "uid_a": "a_0",
+                "subject": "Convex Optimization Problem",
+                "created": "2022-02-03T21:13:58Z",
+                "content": "Hello,<div><br /></div><div>Can you explain what is meant by saying an optimization problem is convex? And how can we actually determine whether an optimization problem is convex?</div>"
+            }
+        ],
+        "type": "question",
+        "tags": [
+            "quizzes",
+            "student"
+        ],
+        "tag_good": [],
+        "unique_views": 139,
+        "children": [
+            {
+                "history_size": 1,
+                "folders": [],
+                "data": {
+                    "embed_links": []
+                },
+                "created": "2022-02-04T22:30:17Z",
+                "bucket_order": 3,
+                "tag_endorse": [],
+                "bucket_name": "Today",
+                "history": [
+                    {
+                        "anon": "no",
+                        "uid": "j6l9g2b9sl930y",
+                        "subject": "",
+                        "created": "2022-02-04T22:30:17Z",
+                        "content": "<p>Convex optimization means you are minimize a convex function. If you minimize a convex function, each local minima is global minima. For example, if you want to use a quadratic function to fit a series of data points, choosing the parameter of the quadratic function is a convex optimization problem.</p>"
+                    }
+                ],
+                "type": "i_answer",
+                "tag_endorse_arr": [],
+                "children": [],
+                "id": "kz8zdo2tus26ok",
+                "config": {
+                    "editor": "rte"
+                },
+                "is_tag_endorse": false
+            }
+        ],
+        "tag_good_arr": [],
+        "no_answer": 0,
+        "id": "kz7h7nybovp38f",
+        "config": {
+            "has_emails_sent": 1
+        },
+        "status": "active",
+        "drafts": null,
+        "request_instructor": 0,
+        "request_instructor_me": false,
+        "bookmarked": 6,
+        "num_favorites": 0,
+        "my_favorite": false,
+        "is_bookmarked": false,
+        "is_tag_good": false,
+        "q_edits": [],
+        "i_edits": [],
+        "s_edits": [],
+        "t": 1668831569990,
+        "default_anonymity": "no"
+    },
+    {
+        "history_size": 1,
+        "folders": [
+            "coding1"
+        ],
+        "nr": 103,
+        "data": {
+            "embed_links": []
+        },
+        "created": "2022-01-19T22:13:35Z",
+        "bucket_order": 3,
+        "no_answer_followup": 0,
+        "change_log": [
+            {
+                "anon": "no",
+                "uid": "ksq81ljra3l2x6",
+                "data": "kym3qkoest74n",
+                "v": "all",
+                "type": "create",
+                "when": "2022-01-19T22:13:35Z"
+            },
+            {
+                "anon": "stud",
+                "data": "kym40i1vgalfy",
+                "to": "kym3qkobaqs74l",
+                "type": "s_answer",
+                "when": "2022-01-19T22:21:19Z",
+                "uid_a": "a_0"
+            },
+            {
+                "anon": "stud",
+                "data": "kym4bspq5ny5th",
+                "type": "s_answer_update",
+                "when": "2022-01-19T22:30:06Z",
+                "uid_a": "a_0"
+            }
+        ],
+        "bucket_name": "Today",
+        "history": [
+            {
+                "anon": "no",
+                "uid": "ksq81ljra3l2x6",
+                "subject": "Naive Bayes",
+                "created": "2022-01-19T22:13:35Z",
+                "content": "We are adding logarithmic probabilities instead of multiplying conditional probabilities because it can result in floating-point underflow.  What is floating-point underflow? Any example?"
+            }
+        ],
+        "type": "question",
+        "tags": [
+            "coding1",
+            "student"
+        ],
+        "tag_good": [
+            {
+                "role": "ta",
+                "name": "Ehsan Qasemi",
+                "endorser": {},
+                "admin": true,
+                "photo": "1641941021_200.jpg",
+                "id": "jl5d6vu7o1zxz",
+                "photo_url": "https://cdn-uploads.piazza.com/photos/jl5d6vu7o1zxz/1641941021_200.jpg",
+                "published": true,
+                "us": false,
+                "facebook_id": null
+            },
+            {
+                "role": "student",
+                "name": "Suki Sahota",
+                "endorser": {
+                    "kduqixiw8sa0": 1602361030,
+                    "kjy03czf39s5k7": 1617253106
+                },
+                "admin": false,
+                "photo": "1598233641_200.jpg",
+                "id": "ke3d0dh2d64594",
+                "photo_url": "https://cdn-uploads.piazza.com/photos/ke3d0dh2d64594/1598233641_200.jpg",
+                "published": true,
+                "us": false,
+                "facebook_id": null
+            }
+        ],
+        "unique_views": 226,
+        "children": [
+            {
+                "history_size": 2,
+                "folders": [],
+                "data": {
+                    "embed_links": []
+                },
+                "created": "2022-01-19T22:21:19Z",
+                "bucket_order": 3,
+                "tag_endorse": [
+                    {
+                        "role": "student",
+                        "name": "Manav Jain",
+                        "endorser": {},
+                        "admin": false,
+                        "photo": null,
+                        "id": "ksq81ljra3l2x6",
+                        "photo_url": null,
+                        "published": true,
+                        "us": false,
+                        "facebook_id": null
+                    },
+                    {
+                        "role": "ta",
+                        "name": "Ehsan Qasemi",
+                        "endorser": {},
+                        "admin": true,
+                        "photo": "1641941021_200.jpg",
+                        "id": "jl5d6vu7o1zxz",
+                        "photo_url": "https://cdn-uploads.piazza.com/photos/jl5d6vu7o1zxz/1641941021_200.jpg",
+                        "published": true,
+                        "us": false,
+                        "facebook_id": null
+                    },
+                    {
+                        "role": "student",
+                        "name": "Srihitha  ",
+                        "endorser": {},
+                        "admin": false,
+                        "photo": "1630287334_200.jpg",
+                        "id": "ksgztztsz692j7",
+                        "photo_url": "https://cdn-uploads.piazza.com/photos/ksgztztsz692j7/1630287334_200.jpg",
+                        "published": true,
+                        "us": false,
+                        "facebook_id": null
+                    },
+                    {
+                        "role": "",
+                        "name": "Urjit Desai",
+                        "endorser": {},
+                        "admin": false,
+                        "photo": null,
+                        "id": "ksq81qn4xy13e4",
+                        "photo_url": null,
+                        "published": true,
+                        "us": false,
+                        "facebook_id": null
+                    },
+                    {
+                        "role": "student",
+                        "name": "Suki Sahota",
+                        "endorser": {
+                            "kduqixiw8sa0": 1602361030,
+                            "kjy03czf39s5k7": 1617253106
+                        },
+                        "admin": false,
+                        "photo": "1598233641_200.jpg",
+                        "id": "ke3d0dh2d64594",
+                        "photo_url": "https://cdn-uploads.piazza.com/photos/ke3d0dh2d64594/1598233641_200.jpg",
+                        "published": true,
+                        "us": false,
+                        "facebook_id": null
+                    }
+                ],
+                "bucket_name": "Today",
+                "history": [
+                    {
+                        "anon": "stud",
+                        "uid_a": "a_0",
+                        "subject": "",
+                        "created": "2022-01-19T22:30:06Z",
+                        "content": "<p>Since probabilities lie between 0 and 1, multiplying a lot of them can result in very small numbers that the data type cannot represent.</p>\n<p></p>\n<blockquote>\n<p>Arithmetic underflow can occur when the true result of a\u00a0<a href=\"https://en.wikipedia.org/wiki/Floating-point_arithmetic\">floating point operation</a>\u00a0is smaller in magnitude (that is, closer to zero) than the smallest value representable as a\u00a0<a href=\"https://en.wikipedia.org/wiki/Normal_number_%28computing%29\">normal</a>\u00a0floating point number in the target\u00a0<a href=\"https://en.wikipedia.org/wiki/Data_type\">datatype</a>.<sup><a href=\"https://en.wikipedia.org/wiki/Arithmetic_underflow#cite_note-1\">[1]</a></sup></p>\n</blockquote>\n<p><sup></sup></p>\n<p><sup><a href=\"https://en.wikipedia.org/wiki/Arithmetic_underflow\">Arithmetic underflow - Wikipedia</a></sup><sup></sup></p>\n<p><sup><a href=\"https://stackoverflow.com/questions/1835787/what-is-the-range-of-values-a-float-can-have-in-python\">floating point - What is the range of values a float can have in Python? - Stack Overflow</a></sup></p>\n<p><sup></sup></p>\n<p>In Naive Bayes, I think it would affect the comparison, as probabilities that are actually different would end up being 0 and look equal.</p>"
+                    },
+                    {
+                        "anon": "stud",
+                        "uid_a": "a_0",
+                        "subject": "",
+                        "created": "2022-01-19T22:21:19Z",
+                        "content": "<p>Since probabilities lie between 0 and 1, multiplying a lot of them can result in very small numbers that the data type cannot represent.</p>\n<p></p>\n<blockquote>\n<p>Arithmetic underflow can occur when the true result of a\u00a0<a href=\"https://en.wikipedia.org/wiki/Floating-point_arithmetic\">floating point operation</a>\u00a0is smaller in magnitude (that is, closer to zero) than the smallest value representable as a\u00a0<a href=\"https://en.wikipedia.org/wiki/Normal_number_%28computing%29\">normal</a>\u00a0floating point number in the target\u00a0<a href=\"https://en.wikipedia.org/wiki/Data_type\">datatype</a>.<sup><a href=\"https://en.wikipedia.org/wiki/Arithmetic_underflow#cite_note-1\">[1]</a></sup></p>\n</blockquote>\n<p><sup></sup></p>\n<p><sup><a href=\"https://en.wikipedia.org/wiki/Arithmetic_underflow\">Arithmetic underflow - Wikipedia</a></sup><sup></sup></p>\n<p><sup><a href=\"https://stackoverflow.com/questions/1835787/what-is-the-range-of-values-a-float-can-have-in-python\">floating point - What is the range of values a float can have in Python? - Stack Overflow</a></sup></p>"
+                    }
+                ],
+                "type": "s_answer",
+                "tag_endorse_arr": [
+                    "ksq81ljra3l2x6",
+                    "jl5d6vu7o1zxz",
+                    "ksgztztsz692j7",
+                    "ksq81qn4xy13e4",
+                    "ke3d0dh2d64594"
+                ],
+                "children": [],
+                "id": "kym40i1sym7fx",
+                "config": {
+                    "editor": "rte"
+                },
+                "is_tag_endorse": false
+            }
+        ],
+        "tag_good_arr": [
+            "jl5d6vu7o1zxz",
+            "ke3d0dh2d64594"
+        ],
+        "no_answer": 0,
+        "id": "kym3qkobaqs74l",
+        "config": {
+            "editor": "plain",
+            "seen": {
+                "12": 1,
+                "23": 0,
+                "101": 2,
+                "15": 5,
+                "49": 6,
+                "74": 4,
+                "65": 3
+            },
+            "has_emails_sent": 1
+        },
+        "status": "active",
+        "drafts": null,
+        "request_instructor": 0,
+        "request_instructor_me": false,
+        "bookmarked": 5,
+        "num_favorites": 3,
+        "my_favorite": false,
+        "is_bookmarked": false,
+        "is_tag_good": false,
+        "q_edits": [],
+        "i_edits": [],
+        "s_edits": [],
+        "t": 1668831572105,
+        "default_anonymity": "no"
+    },
+    {
+        "history_size": 2,
+        "folders": [
+            "other"
+        ],
+        "nr": 54,
+        "data": {
+            "embed_links": []
+        },
+        "created": "2022-01-15T00:55:58Z",
+        "bucket_order": 3,
+        "no_answer_followup": 0,
+        "change_log": [
+            {
+                "anon": "stud",
+                "data": "kyf4c53vb374h1",
+                "v": "all",
+                "type": "create",
+                "when": "2022-01-15T00:55:58Z",
+                "uid_a": "a_0"
+            },
+            {
+                "anon": "stud",
+                "data": "kyf4cqcyw4y6be",
+                "type": "update",
+                "when": "2022-01-15T00:56:26Z",
+                "uid_a": "a_0"
+            },
+            {
+                "anon": "no",
+                "uid": "jl5d6vu7o1zxz",
+                "data": "kykq2js8q1o28b",
+                "to": "kyf4c53smpe4gy",
+                "type": "i_answer",
+                "when": "2022-01-18T23:03:13Z"
+            }
+        ],
+        "bucket_name": "Today",
+        "history": [
+            {
+                "anon": "stud",
+                "uid_a": "a_0",
+                "subject": "Logistic Regression robustness to correlated features",
+                "created": "2022-01-15T00:56:26Z",
+                "content": "<p>In the logistic regression reading material, under the section 5.2.4 (Choosing a classifier), it says logistic regression is more robust to correlated features : &#34;if two features f1 and f2 are perfectly correlated, regression will simply assign part of the weight to w1 and part to w2&#34; .</p>\n<p></p>\n<p>Isn&#39;t the test for correlated features (test for multi-collinearity) an important step that we check before building the model ? As, the independence of two features is very important criteria in finding the partial gradient ??</p>"
+            },
+            {
+                "anon": "stud",
+                "uid_a": "a_0",
+                "subject": "Logistic Regression robustness to correlated features",
+                "created": "2022-01-15T00:55:58Z",
+                "content": "<p>In the logistic regression reading material, under the section 5.2.4 (Choosing a classifier), it says logistic regression is more robust to correlated features : &#34;if two features f1 and f2 are perfectly correlated, regression will simply assign part of the weight to w1 and part to w2&#34; .</p>\n<p></p>\n<p>Isn&#39;t the test for correlated features (test for multi-collinearity) an important step that we check before building the model ? As, the independence of two features is very important criteria in finding the partial gradient ??</p>"
+            }
+        ],
+        "type": "question",
+        "tags": [
+            "other",
+            "student"
+        ],
+        "tag_good": [
+            {
+                "role": "student",
+                "name": "V.N. Manish",
+                "endorser": {},
+                "admin": false,
+                "photo": null,
+                "id": "kjw2zkhwhse4n4",
+                "photo_url": null,
+                "published": true,
+                "us": false,
+                "facebook_id": null
+            },
+            {
+                "role": "student",
+                "name": "Paritosh Singh",
+                "endorser": {},
+                "admin": false,
+                "photo": null,
+                "id": "kstgd1sje85lq",
+                "photo_url": null,
+                "published": true,
+                "us": false,
+                "facebook_id": null
+            }
+        ],
+        "unique_views": 207,
+        "children": [
+            {
+                "history_size": 1,
+                "folders": [],
+                "data": {
+                    "embed_links": []
+                },
+                "created": "2022-01-18T23:03:13Z",
+                "bucket_order": 3,
+                "tag_endorse": [],
+                "bucket_name": "Today",
+                "history": [
+                    {
+                        "anon": "no",
+                        "uid": "jl5d6vu7o1zxz",
+                        "subject": "",
+                        "created": "2022-01-18T23:03:13Z",
+                        "content": "<p>Generally yes. One should get rid of correlated features before fitting the model. However, it is always preferred if your model is robust to these without expert intervention.<br />In addition, it is not always feasible to remove correlated features, e.g. due to limitations of the data or bias in the data. No training data is perfect, especially in NLP.</p>"
+                    }
+                ],
+                "type": "i_answer",
+                "tag_endorse_arr": [],
+                "children": [],
+                "id": "kykq2js67hi28a",
+                "config": {
+                    "editor": "rte"
+                },
+                "is_tag_endorse": false
+            }
+        ],
+        "tag_good_arr": [
+            "kjw2zkhwhse4n4",
+            "kstgd1sje85lq"
+        ],
+        "no_answer": 0,
+        "id": "kyf4c53smpe4gy",
+        "config": {
+            "editor": "rte",
+            "seen": {
+                "11": 5,
+                "48": 3,
+                "49": 1,
+                "19": 4,
+                "10": 2,
+                "43": 0
+            },
+            "has_emails_sent": 1
+        },
+        "status": "active",
+        "drafts": null,
+        "request_instructor": 0,
+        "request_instructor_me": false,
+        "bookmarked": 3,
+        "num_favorites": 0,
+        "my_favorite": false,
+        "is_bookmarked": false,
+        "is_tag_good": false,
+        "q_edits": [],
+        "i_edits": [],
+        "s_edits": [],
+        "t": 1668831574210,
+        "default_anonymity": "no"
+    },
+    {
+        "history_size": 1,
+        "folders": [
+            "other",
+            "written_assignment"
+        ],
+        "nr": 18,
+        "data": {
+            "embed_links": []
+        },
+        "created": "2022-01-11T22:48:39Z",
+        "bucket_order": 3,
+        "no_answer_followup": 0,
+        "change_log": [
+            {
+                "anon": "no",
+                "uid": "jkunt427lzw6hn",
+                "data": "kyapgu4rndv7am",
+                "v": "all",
+                "type": "create",
+                "when": "2022-01-11T22:48:39Z"
+            },
+            {
+                "anon": "no",
+                "uid": "jl5d6vu7o1zxz",
+                "data": "kyaqkl7gu8c7a3",
+                "to": "kyapgu4q4ij7al",
+                "type": "i_answer",
+                "when": "2022-01-11T23:19:33Z"
+            }
+        ],
+        "bucket_name": "Today",
+        "history": [
+            {
+                "anon": "no",
+                "uid": "jkunt427lzw6hn",
+                "subject": "Emojis",
+                "created": "2022-01-11T22:48:39Z",
+                "content": "<div>Are emojis considered to be part of NLP? It feels like it would be a relevant factor \u2014 such as for sentiment analysis.\u00a0</div>"
+            }
+        ],
+        "type": "question",
+        "tags": [
+            "other",
+            "student",
+            "written_assignment"
+        ],
+        "tag_good": [
+            {
+                "role": "ta",
+                "name": "Ehsan Qasemi",
+                "endorser": {},
+                "admin": true,
+                "photo": "1641941021_200.jpg",
+                "id": "jl5d6vu7o1zxz",
+                "photo_url": "https://cdn-uploads.piazza.com/photos/jl5d6vu7o1zxz/1641941021_200.jpg",
+                "published": true,
+                "us": false,
+                "facebook_id": null
+            },
+            {
+                "role": "student",
+                "name": "Zhi Tu",
+                "endorser": {},
+                "admin": false,
+                "photo": null,
+                "id": "isyo9ikg79513j",
+                "photo_url": null,
+                "published": true,
+                "us": false,
+                "facebook_id": null
+            },
+            {
+                "role": "student",
+                "name": "Shuvam Ghosal",
+                "endorser": {
+                    "krcc1cltfj9264": 1633403524
+                },
+                "admin": false,
+                "photo": "1630548855_200.jpg",
+                "id": "kstgcx3thj45d2",
+                "photo_url": "https://cdn-uploads.piazza.com/photos/kstgcx3thj45d2/1630548855_200.jpg",
+                "published": true,
+                "us": false,
+                "facebook_id": null
+            }
+        ],
+        "unique_views": 297,
+        "children": [
+            {
+                "history_size": 1,
+                "folders": [],
+                "data": {
+                    "embed_links": []
+                },
+                "created": "2022-01-11T23:19:33Z",
+                "bucket_order": 3,
+                "tag_endorse": [
+                    {
+                        "role": "student",
+                        "name": "Alain Tamazian",
+                        "endorser": {
+                            "kskhsexoc9l3ut": 1635188952
+                        },
+                        "admin": false,
+                        "photo": null,
+                        "id": "jkunt427lzw6hn",
+                        "photo_url": null,
+                        "published": true,
+                        "us": false,
+                        "facebook_id": null
+                    }
+                ],
+                "bucket_name": "Today",
+                "history": [
+                    {
+                        "anon": "no",
+                        "uid": "jl5d6vu7o1zxz",
+                        "subject": "",
+                        "created": "2022-01-11T23:19:33Z",
+                        "content": "<p>Not sure if I understand the question. So please correct me if I missed it.</p>\n<p></p>\n<p>Is your question &#34;<strong>can processing emojis be done as part of NLP?</strong> especially for your assignment.&#34; Then yes it can be. Just think of what you want to do with them as I have seen several research papers and projects on the topic.</p>\n<p></p>\n<p>However, if you are asking &#34;<strong>are emojis a natural language</strong>?&#34;. Here is my opinion and others can join the discussion as well. I believe yes, emojis are a natural language. Although they are manufactured originally, they have evolved naturally in human communities by repetition without conscious planning way beyond their original design. I found this interesting article on the topic: https://www.clarabridge.com/blog/debunking-natural-language-processing-emojis-and-emoticons</p>"
+                    }
+                ],
+                "type": "i_answer",
+                "tag_endorse_arr": [
+                    "jkunt427lzw6hn"
+                ],
+                "children": [],
+                "id": "kyaqkl7d9wq7a2",
+                "config": {
+                    "editor": "rte"
+                },
+                "is_tag_endorse": false
+            }
+        ],
+        "tag_good_arr": [
+            "jl5d6vu7o1zxz",
+            "isyo9ikg79513j",
+            "kstgcx3thj45d2"
+        ],
+        "no_answer": 0,
+        "id": "kyapgu4q4ij7al",
+        "config": {
+            "has_emails_sent": 1
+        },
+        "status": "active",
+        "drafts": null,
+        "request_instructor": 0,
+        "request_instructor_me": false,
+        "bookmarked": 2,
+        "num_favorites": 0,
+        "my_favorite": false,
+        "is_bookmarked": false,
+        "is_tag_good": false,
+        "q_edits": [],
+        "i_edits": [],
+        "s_edits": [],
+        "t": 1668831576325,
+        "default_anonymity": "no"
+    }
+]
