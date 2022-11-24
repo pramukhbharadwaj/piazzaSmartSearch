@@ -12,16 +12,16 @@ from datetime import datetime
 import pandas as pd
 
 
-# In[2]:
+# In[15]:
 
 
-def isEndorsedByStaff(endorsements):
-    for endorsement in endorsements:
-        if 'role' in endorsement and ('professor' in endorsement['role'] or 'instructor' in endorsement['role'] or 'ta' in endorsement['role']):
-            return True
+# def isEndorsedByStaff(endorsements):
+#     for endorsement in endorsements:
+#         if 'role' in endorsement and ('professor' in endorsement['role'] or 'instructor' in endorsement['role'] or 'ta' in endorsement['role']):
+#             return True
     
-def checkValidAnswer(post):
-    return ('i_answer' in post['type']) or ('tag_endorse' in post and isEndorsedByStaff(post['tag_endorse']))
+# def checkValidAnswer(post):
+#     return ('i_answer' in post['type']) or ('tag_endorse' in post and isEndorsedByStaff(post['tag_endorse']))
 
 def getAnswerList(post):
     answerList = []
@@ -30,13 +30,26 @@ def getAnswerList(post):
         for postAnswer in postAnswers:
             #whoAnswered = ''
             answer = ''
-            if 'type' in postAnswer and checkValidAnswer(postAnswer) and 'history' in postAnswer and 'subject' not in postAnswer['history']:
-                #whoAnswered = postAnswer['type']
+            if 'type' in postAnswer and 'history' in postAnswer and 'subject' not in postAnswer['history']:
+                whoAnswered = postAnswer['type']
                 #last_modified = postAnswer['history'][len(postAnswer['history']) - 1]
                 last_modified = getLastModified(postAnswer)
                 answer = last_modified['content']
-                #answerToWhoAnswered = (answer, whoAnswered)
-                answerList.append(answer)
+                answerToWhoAnswered = (answer, whoAnswered)
+                answerList.append(answerToWhoAnswered)
+            elif 'type' in postAnswer and 'followup' in postAnswer['type']:
+                question = postAnswer['subject']
+                whoAsked = 'followup_question'
+                questionToWhoAsked = (question, whoAsked)
+                answerList.append(questionToWhoAsked)
+                if 'children' in postAnswer:
+                    followup_question_answers = postAnswer['children']
+                    for i in range(0, len(followup_question_answers)):
+                        whoAnswered = followup_question_answers[i]['type']
+                        answer = followup_question_answers[i]['subject']
+                        answerToWhoAnswered = (answer, whoAnswered)
+                        answerList.append(answerToWhoAnswered)
+                        
     return answerList
 
 def getLastModified(post):
@@ -55,7 +68,7 @@ def extractData(filename):
     with open(filename, 'r') as openfile:
         input = json.load(openfile)
         #print(input)
-        df = pd.DataFrame(columns = ['Post', 'Sentence'])
+        df = pd.DataFrame(columns = ['Post','Link','Sentence','WhoAnswered'])
         for i in range(0, len(input)):
             post = input[i]
             if 'history' in post:
@@ -64,10 +77,11 @@ def extractData(filename):
                     subject = last_modified['subject']
                     content = last_modified['content']
                     post_ID = post['nr']
+                    question_link = post['question_link']
                     answerList = getAnswerList(input[i])
-                    df = df.append({'Post': post_ID, 'Sentence': subject + "." + content}, ignore_index = True)  
+                    df = df.append({'Post': post_ID, 'Link': question_link,'Sentence': subject + "." + content, 'WhoAnswered': 'question'}, ignore_index = True)  
                     for i in range(0, len(answerList)):
-                        df = df.append({'Post': post_ID, 'Sentence': answerList[i]}, ignore_index = True)
+                        df = df.append({'Post': post_ID, 'Link': question_link,'Sentence': answerList[i][0], 'WhoAnswered': answerList[i][1]}, ignore_index = True)
 
         return df
 #     for i in range(0, len(df)):
@@ -75,16 +89,11 @@ def extractData(filename):
 #         print("Sentence: "+df.iloc[i]['Sentence'])
 
 
-# In[4]:
+# In[17]:
 
 
 #usage
-final_df = pd.concat([extractData("data/fall_22_nlp.json"), extractData("data/spring_22_nlp.json")])
+#final_df = pd.concat([extractData("data/fall_22_nlp.json"), extractData("data/spring_22_nlp.json")])
 #print(final_df.to_string())
-
-
-# In[ ]:
-
-
-
+#final_df
 
