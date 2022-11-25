@@ -1,0 +1,942 @@
+[
+    {
+        "history_size": 1,
+        "folders": [
+            "final_exam"
+        ],
+        "nr": 871,
+        "data": {
+            "embed_links": []
+        },
+        "created": "2022-05-09T18:51:39Z",
+        "bucket_order": 3,
+        "no_answer_followup": 0,
+        "change_log": [
+            {
+                "anon": "stud",
+                "data": "l2z2yla7ndw353",
+                "v": "all",
+                "type": "create",
+                "when": "2022-05-09T18:51:39Z",
+                "uid_a": "a_0"
+            },
+            {
+                "anon": "no",
+                "uid": "ky7nqdhlj5y1bb",
+                "data": "l2z6kmkts1043o",
+                "to": "l2z2yla4c81352",
+                "type": "i_answer",
+                "when": "2022-05-09T20:32:46Z"
+            }
+        ],
+        "bucket_name": "Today",
+        "history": [
+            {
+                "anon": "stud",
+                "uid_a": "a_0",
+                "subject": "Question 47",
+                "created": "2022-05-09T18:51:39Z",
+                "content": "Question 47\n\nWhich of the following cannot be fine-tuned into an abstractive summarization model?\n\n3\n\nSelected Answer: @ Transformer encoder-decoder\nAnswers: @ BERT\n\nBART\n\n15\n\nTransformer encoder-decoder\n",
+                "content_orig": "<p><img src=\"/redirect/s3?bucket=uploads&amp;prefix=paste%2Fke28zmvorxu43x%2F87ee625c5887c9592fbb1a8527d92178dbf3828b967fb11fa0cfd8bb2e8a0879%2F552f8cafa3d96f081218928378a22c6.png\" alt=\"552f8cafa3d96f081218928378a22c6.png\" width=\"374\" height=\"142\" /></p>\n<p>BERT cannot be fine-tuned to abstractive summarization because it could fill the masked words but cannot generate a summary with a decoder?</p>\n<p></p>\n<p>Thanks a lot!</p>\n<p></p>\n<p></p>"
+            }
+        ],
+        "type": "question",
+        "tags": [
+            "final_exam",
+            "student"
+        ],
+        "tag_good": [],
+        "unique_views": 141,
+        "children": [
+            {
+                "history_size": 1,
+                "folders": [],
+                "data": {
+                    "embed_links": []
+                },
+                "created": "2022-05-09T20:32:46Z",
+                "bucket_order": 3,
+                "tag_endorse": [],
+                "bucket_name": "Today",
+                "history": [
+                    {
+                        "anon": "no",
+                        "uid": "ky7nqdhlj5y1bb",
+                        "subject": "",
+                        "created": "2022-05-09T20:32:46Z",
+                        "content": "<p>For abstractive sumarization you need an autoregressive model. BERT is an MLM and does not do autoregressive generation.</p>"
+                    }
+                ],
+                "type": "i_answer",
+                "tag_endorse_arr": [],
+                "children": [],
+                "id": "l2z6kmkqrr043n",
+                "config": {
+                    "editor": "rte"
+                },
+                "is_tag_endorse": false
+            }
+        ],
+        "tag_good_arr": [],
+        "no_answer": 0,
+        "id": "l2z2yla4c81352",
+        "config": {
+            "editor": "rte",
+            "seen": {
+                "870": 3,
+                "486": 0,
+                "268": 6,
+                "774": 4,
+                "568": 2,
+                "748": 5,
+                "719": 1
+            },
+            "has_emails_sent": 1
+        },
+        "status": "active",
+        "drafts": null,
+        "request_instructor": 0,
+        "request_instructor_me": false,
+        "bookmarked": 4,
+        "num_favorites": 0,
+        "my_favorite": false,
+        "is_bookmarked": false,
+        "is_tag_good": false,
+        "q_edits": [],
+        "i_edits": [],
+        "s_edits": [],
+        "t": 1669347647807,
+        "default_anonymity": "no",
+        "question_link": "https://piazza.com/class/ky7ls2h92kpwe/post/871"
+    },
+    {
+        "history_size": 1,
+        "folders": [
+            "final_exam"
+        ],
+        "nr": 870,
+        "data": {
+            "embed_links": []
+        },
+        "created": "2022-05-09T18:30:59Z",
+        "bucket_order": 3,
+        "no_answer_followup": 0,
+        "change_log": [
+            {
+                "anon": "stud",
+                "data": "l2z280eyrts2l4",
+                "v": "all",
+                "type": "create",
+                "when": "2022-05-09T18:30:59Z",
+                "uid_a": "a_0"
+            },
+            {
+                "anon": "no",
+                "uid": "ky7nqdhlj5y1bb",
+                "data": "l2z6nqyvs8u5pd",
+                "to": "l2z280evkj12l2",
+                "type": "i_answer",
+                "when": "2022-05-09T20:35:12Z"
+            },
+            {
+                "anon": "no",
+                "uid": "ky7nqdhlj5y1bb",
+                "data": "l2z7fudgal9ti",
+                "type": "i_answer_update",
+                "when": "2022-05-09T20:57:03Z"
+            }
+        ],
+        "bucket_name": "Today",
+        "history": [
+            {
+                "anon": "stud",
+                "uid_a": "a_0",
+                "subject": "Question 32",
+                "created": "2022-05-09T18:30:59Z",
+                "content": "Question 32\n\nWhich of the following can be a (EEY=EEoNN\n\nSelected Answer: @ Fact verification\nAnswers: @ Abstractive summarization\nFact verification\nNamed entity recognition\n\nNone of the other choices\n",
+                "content_orig": "<p><img src=\"/redirect/s3?bucket=uploads&amp;prefix=paste%2Fke28zmvorxu43x%2F4c74e8d843051422e5264a46810c41865f9b31e21ff6bc1b04f573791ca0f56a%2Fimage.png\" alt=\"image.png\" /></p>\n<p>Can anyone explain why Abstractive summarization could be a use case of NLI?</p>\n<p>And for Fact verification, we could have a context and a fact sentence, which we could do NLI in my opinion?</p>\n<p>Thank you very much!</p>"
+            }
+        ],
+        "type": "question",
+        "tags": [
+            "final_exam",
+            "student"
+        ],
+        "tag_good": [
+            {
+                "role": "student",
+                "name": "Varun Venkatesh",
+                "endorser": {
+                    "ksmlgkord5752e": 1631142274,
+                    "ks4pwr54h7d32z": 1631242059,
+                    "global": 1633240927,
+                    "ky7ls2h92kpwe": 1643331404
+                },
+                "admin": false,
+                "photo": null,
+                "id": "kshyzxa64ds48u",
+                "photo_url": null,
+                "published": true,
+                "us": false,
+                "facebook_id": null
+            },
+            {
+                "role": "student",
+                "name": "Aneeta George",
+                "endorser": {
+                    "kxindf11ki56s2": 1645688335
+                },
+                "admin": false,
+                "photo": null,
+                "id": "ksq81nxfwxg351",
+                "photo_url": null,
+                "published": true,
+                "us": false,
+                "facebook_id": null
+            },
+            {
+                "role": "student",
+                "name": "Aman Mohandas",
+                "endorser": {},
+                "admin": false,
+                "photo": null,
+                "id": "ksgin50sjk43x6",
+                "photo_url": null,
+                "published": true,
+                "us": false,
+                "facebook_id": null
+            }
+        ],
+        "unique_views": 184,
+        "children": [
+            {
+                "history_size": 2,
+                "folders": [],
+                "data": {
+                    "embed_links": []
+                },
+                "created": "2022-05-09T20:35:12Z",
+                "bucket_order": 3,
+                "tag_endorse": [
+                    {
+                        "role": "student",
+                        "name": "Aneeta George",
+                        "endorser": {
+                            "kxindf11ki56s2": 1645688335
+                        },
+                        "admin": false,
+                        "photo": null,
+                        "id": "ksq81nxfwxg351",
+                        "photo_url": null,
+                        "published": true,
+                        "us": false,
+                        "facebook_id": null
+                    },
+                    {
+                        "role": "student",
+                        "name": "Haobo Xu",
+                        "endorser": {},
+                        "admin": false,
+                        "photo": "1630371831_200.jpg",
+                        "id": "ke28zmvorxu43x",
+                        "photo_url": "https://cdn-uploads.piazza.com/photos/ke28zmvorxu43x/1630371831_200.jpg",
+                        "published": true,
+                        "us": false,
+                        "facebook_id": null
+                    },
+                    {
+                        "role": "student",
+                        "name": "Ayush Kothari",
+                        "endorser": {},
+                        "admin": false,
+                        "photo": null,
+                        "id": "ksq81nofxuz34a",
+                        "photo_url": null,
+                        "published": true,
+                        "us": false,
+                        "facebook_id": null
+                    },
+                    {
+                        "role": "student",
+                        "name": "Aman Mohandas",
+                        "endorser": {},
+                        "admin": false,
+                        "photo": null,
+                        "id": "ksgin50sjk43x6",
+                        "photo_url": null,
+                        "published": true,
+                        "us": false,
+                        "facebook_id": null
+                    },
+                    {
+                        "role": "student",
+                        "name": "Laxmi Garde",
+                        "endorser": {},
+                        "admin": false,
+                        "photo": "1632201878_200.jpg",
+                        "id": "ksoacowobeh4to",
+                        "photo_url": "https://cdn-uploads.piazza.com/photos/ksoacowobeh4to/1632201878_200.jpg",
+                        "published": true,
+                        "us": false,
+                        "class_sections": [
+                            "kz3c0cy14usa_ky7ls2h92kpwe"
+                        ],
+                        "facebook_id": null
+                    },
+                    {
+                        "role": "student",
+                        "name": "Divya Manjunath",
+                        "endorser": {},
+                        "admin": false,
+                        "photo": null,
+                        "id": "kk2zq5gkqjvmh",
+                        "photo_url": null,
+                        "published": true,
+                        "us": false,
+                        "facebook_id": null
+                    }
+                ],
+                "bucket_name": "Today",
+                "history": [
+                    {
+                        "anon": "no",
+                        "uid": "ky7nqdhlj5y1bb",
+                        "subject": "",
+                        "created": "2022-05-09T20:57:03Z",
+                        "content": "<p>That should be indeed fact verification. I just corrected that in the system.</p>"
+                    },
+                    {
+                        "anon": "no",
+                        "uid": "ky7nqdhlj5y1bb",
+                        "subject": "",
+                        "created": "2022-05-09T20:35:12Z",
+                        "content": "<p>That should be indeed fact verification. I juust corrected that in the system.</p>"
+                    }
+                ],
+                "type": "i_answer",
+                "tag_endorse_arr": [
+                    "ksq81nxfwxg351",
+                    "ke28zmvorxu43x",
+                    "ksq81nofxuz34a",
+                    "ksgin50sjk43x6",
+                    "ksoacowobeh4to",
+                    "kk2zq5gkqjvmh"
+                ],
+                "children": [],
+                "id": "l2z6nqysczq5pc",
+                "config": {
+                    "editor": "rte"
+                },
+                "is_tag_endorse": false
+            }
+        ],
+        "tag_good_arr": [
+            "kshyzxa64ds48u",
+            "ksq81nxfwxg351",
+            "ksgin50sjk43x6"
+        ],
+        "no_answer": 0,
+        "id": "l2z280evkj12l2",
+        "config": {
+            "editor": "rte",
+            "seen": {
+                "573": 2,
+                "569": 1,
+                "734": 0,
+                "394": 3
+            },
+            "has_emails_sent": 1
+        },
+        "status": "active",
+        "drafts": null,
+        "request_instructor": 0,
+        "request_instructor_me": false,
+        "bookmarked": 5,
+        "num_favorites": 0,
+        "my_favorite": false,
+        "is_bookmarked": false,
+        "is_tag_good": false,
+        "q_edits": [],
+        "i_edits": [],
+        "s_edits": [],
+        "t": 1669347649917,
+        "default_anonymity": "no",
+        "question_link": "https://piazza.com/class/ky7ls2h92kpwe/post/870"
+    },
+    {
+        "history_size": 1,
+        "folders": [
+            "final_exam"
+        ],
+        "nr": 868,
+        "data": {
+            "embed_links": []
+        },
+        "created": "2022-05-09T17:01:53Z",
+        "bucket_order": 3,
+        "no_answer_followup": 0,
+        "change_log": [
+            {
+                "anon": "stud",
+                "data": "l2yz1f08x4l58f",
+                "v": "all",
+                "type": "create",
+                "when": "2022-05-09T17:01:53Z",
+                "uid_a": "a_0"
+            },
+            {
+                "anon": "no",
+                "uid": "ixm5rfb79wz6t",
+                "data": "l2z4v6d2d0r2mr",
+                "to": "l2yz1f04ggo58e",
+                "type": "i_answer",
+                "when": "2022-05-09T19:44:59Z"
+            },
+            {
+                "anon": "stud",
+                "to": "l2yz1f04ggo58e",
+                "type": "followup",
+                "when": "2022-05-09T20:23:20Z",
+                "cid": "l2z68hc3zxk5g8",
+                "uid_a": "a_0"
+            }
+        ],
+        "bucket_name": "Today",
+        "history": [
+            {
+                "anon": "stud",
+                "uid_a": "a_0",
+                "subject": "Question 15",
+                "created": "2022-05-09T17:01:53Z",
+                "content": "Question 15\n\n\u2018Syntactic ambiguity describes the situation where a string of words:\n3\n\nSelected Answer: \u00a2 Can have more than one meaning\n\nAnswers: Cannot be interpreted using syntactic rules\nCan have more than one meaning\n\n@ Can correspond to more than one structure\n\nCan have dozens of implau\n\n",
+                "content_orig": "<p><img src=\"/redirect/s3?bucket=uploads&amp;prefix=paste%2Fke28zmvorxu43x%2F3b5b02ff6edc6d1ac27f405c7b70dfc87ddf9077b36899710e1d5187f2bbcfd5%2Fimage.png\" alt=\"image.png\" /></p>\n<p>I am confused about this question.</p>\n<p></p>\n<p>In the class, the example of syntactic ambiguity is that &#34;Flying planes can be dangerous&#34;. And professor Ron mentioned that words in this string have one meaning but the combination of words has more than one meaning. So I guess my choice also makes sense?</p>\n<p></p>"
+            }
+        ],
+        "type": "question",
+        "tags": [
+            "final_exam",
+            "student"
+        ],
+        "tag_good": [],
+        "unique_views": 135,
+        "children": [
+            {
+                "history_size": 1,
+                "folders": [],
+                "data": {
+                    "embed_links": []
+                },
+                "created": "2022-05-09T19:44:59Z",
+                "bucket_order": 3,
+                "tag_endorse": [],
+                "bucket_name": "Today",
+                "history": [
+                    {
+                        "anon": "no",
+                        "uid": "ixm5rfb79wz6t",
+                        "subject": "",
+                        "created": "2022-05-09T19:44:59Z",
+                        "content": "Syntax is a matter of sentence structure, as explained in the introduction class, the parsing class, and the associated reading. While it is true that different structures often correspond to different meanings, this is not always the case. For example, &#34;(a cat and a dog) and a mouse&#34; has a very similar meaning to &#34;a cat and (a dog and a mouse)&#34;."
+                    }
+                ],
+                "type": "i_answer",
+                "tag_endorse_arr": [],
+                "children": [],
+                "id": "l2z4v6czu8x2mp",
+                "config": {
+                    "editor": "plain"
+                },
+                "is_tag_endorse": false
+            },
+            {
+                "anon": "stud",
+                "folders": [],
+                "data": {
+                    "embed_links": null
+                },
+                "no_upvotes": 0,
+                "subject": "<p>Ok, I thought the one more meaning you mentioned in class is the definition. From the explanation you gave, it makes more sense! Thank you.</p>",
+                "created": "2022-05-09T20:23:20Z",
+                "bucket_order": 3,
+                "bucket_name": "Today",
+                "type": "followup",
+                "tag_good": [],
+                "uid_a": "a_0",
+                "children": [],
+                "tag_good_arr": [],
+                "no_answer": 0,
+                "id": "l2z68hc3zxk5g8",
+                "updated": "2022-05-09T20:23:20Z",
+                "config": {
+                    "editor": "rte"
+                }
+            }
+        ],
+        "tag_good_arr": [],
+        "no_answer": 0,
+        "id": "l2yz1f04ggo58e",
+        "config": {
+            "editor": "rte",
+            "seen": {
+                "355": 3,
+                "468": 4,
+                "825": 0,
+                "75": 2,
+                "383": 1
+            },
+            "has_emails_sent": 1
+        },
+        "status": "active",
+        "drafts": null,
+        "request_instructor": 0,
+        "request_instructor_me": false,
+        "bookmarked": 4,
+        "num_favorites": 0,
+        "my_favorite": false,
+        "is_bookmarked": false,
+        "is_tag_good": false,
+        "q_edits": [],
+        "i_edits": [],
+        "s_edits": [],
+        "t": 1669347652023,
+        "default_anonymity": "no",
+        "question_link": "https://piazza.com/class/ky7ls2h92kpwe/post/868"
+    },
+    {
+        "history_size": 2,
+        "folders": [
+            "final_exam"
+        ],
+        "nr": 861,
+        "data": {
+            "embed_links": []
+        },
+        "created": "2022-05-07T18:25:07Z",
+        "bucket_order": 3,
+        "no_answer_followup": 0,
+        "change_log": [
+            {
+                "anon": "stud",
+                "data": "l2w74r5kcd1gh",
+                "v": "all",
+                "type": "create",
+                "when": "2022-05-07T18:25:07Z",
+                "uid_a": "a_0"
+            },
+            {
+                "anon": "stud",
+                "data": "l2w7a1vaxs661h",
+                "type": "update",
+                "when": "2022-05-07T18:29:14Z",
+                "uid_a": "a_0"
+            },
+            {
+                "anon": "no",
+                "uid": "ky7nqdhlj5y1bb",
+                "data": "l2w7jmfp8hy7kr",
+                "to": "l2w74r5g6nrgg",
+                "type": "i_answer",
+                "when": "2022-05-07T18:36:41Z"
+            },
+            {
+                "anon": "stud",
+                "to": "l2w74r5g6nrgg",
+                "type": "followup",
+                "when": "2022-05-07T18:48:47Z",
+                "cid": "l2w7z779mqp5h3",
+                "uid_a": "a_0"
+            },
+            {
+                "anon": "no",
+                "uid": "ky7nqdhlj5y1bb",
+                "to": "l2w74r5g6nrgg",
+                "type": "feedback",
+                "when": "2022-05-07T18:55:23Z",
+                "cid": "l2w87osh1lg2au"
+            },
+            {
+                "anon": "no",
+                "uid": "ky7nqdhlj5y1bb",
+                "to": "l2w74r5g6nrgg",
+                "type": "feedback",
+                "when": "2022-05-07T19:03:48Z",
+                "cid": "l2w8iib11ab5le"
+            },
+            {
+                "anon": "stud",
+                "to": "l2w74r5g6nrgg",
+                "type": "feedback",
+                "when": "2022-05-07T19:23:18Z",
+                "cid": "l2w97kigbletx",
+                "uid_a": "a_0"
+            },
+            {
+                "anon": "no",
+                "uid": "ky7nqdhlj5y1bb",
+                "to": "l2w74r5g6nrgg",
+                "type": "feedback",
+                "when": "2022-05-07T19:24:22Z",
+                "cid": "l2w98yifsic1zp"
+            },
+            {
+                "anon": "stud",
+                "to": "l2w74r5g6nrgg",
+                "type": "feedback",
+                "when": "2022-05-07T19:27:04Z",
+                "cid": "l2w9cfak8oz3p5",
+                "uid_a": "a_0"
+            }
+        ],
+        "bucket_name": "Today",
+        "history": [
+            {
+                "anon": "stud",
+                "uid_a": "a_0",
+                "subject": "Exam Question 26",
+                "created": "2022-05-07T18:29:14Z",
+                "content": "Question 26 0 out of 1 points\n\nIf we plan to train a readability analysis model that decides how difficult a given paragraph reads, where the readability is scaled into\nix] five levels {very easy, easy, normal, difficult, very difficult}, then which of the following model is not suitable for this task?\n\nSelected Answer: \u00a2 A multi-class classifier\n\nAnswers: @ Aregressor with MAE loss\nAn ordinal regression model\nAmulti-class classifier\n\nA label ranker\n",
+                "content_orig": "<img src=\"/redirect/s3?bucket=uploads&amp;prefix=paste%2Fkeafev2ueut3xi%2Fe2ede1a99efa7f57df2b5d61d4eb7224ec7d9ebf4cec45ac29882a5507bbf06e%2Fimage.png\" alt=\"image.png\" width=\"1000\" />\nHi, everyone\nI am not demanding for credit for this question. I want to know why we cannot use a regressor with MAE loss. We can convert labels to 1-5 scale (this seems quite reasonable to me) and we can use a regression model with MAE loss. \nI chose multi-class classifier because let&#39;s say the correct label is &#39;difficult&#39;, if the model predicts &#39;easy&#39; or &#39;very easy&#39;, the loss would be same for a classifier, but it would be different for a regressor. I think it seems more reasonable for the loss to be different."
+            },
+            {
+                "anon": "stud",
+                "uid_a": "a_0",
+                "subject": "Exam Question 26",
+                "created": "2022-05-07T18:25:07Z",
+                "content": "Question 26 0 out of 1 points\n\nIf we plan to train a readability analysis model that decides how difficult a given paragraph reads, where the readability is scaled into\nix] five levels {very easy, easy, normal, difficult, very difficult}, then which of the following model is not suitable for this task?\n\nSelected Answer: \u00a2 A multi-class classifier\n\nAnswers: @ Aregressor with MAE loss\nAn ordinal regression model\nAmulti-class classifier\n\nA label ranker\n",
+                "content_orig": "<img src=\"/redirect/s3?bucket=uploads&amp;prefix=paste%2Fkeafev2ueut3xi%2Fe2ede1a99efa7f57df2b5d61d4eb7224ec7d9ebf4cec45ac29882a5507bbf06e%2Fimage.png\" alt=\"image.png\" width=\"1000\" />\nHi, everyone\nI am not demanding for credit for this question. I want to know why we cannot use a regressor with MAE loss. We can convert labels to 1-5 scale (this seems quite reasonable to me) and we can use a regression model with MAE loss."
+            }
+        ],
+        "type": "question",
+        "tags": [
+            "final_exam",
+            "student"
+        ],
+        "tag_good": [],
+        "unique_views": 146,
+        "children": [
+            {
+                "history_size": 1,
+                "folders": [],
+                "data": {
+                    "embed_links": []
+                },
+                "created": "2022-05-07T18:36:41Z",
+                "bucket_order": 3,
+                "tag_endorse": [],
+                "bucket_name": "Today",
+                "history": [
+                    {
+                        "anon": "no",
+                        "uid": "ky7nqdhlj5y1bb",
+                        "subject": "",
+                        "created": "2022-05-07T18:36:41Z",
+                        "content": "<p>How would you train a sentiment classifier for movie reviews?</p>"
+                    }
+                ],
+                "type": "i_answer",
+                "tag_endorse_arr": [],
+                "children": [],
+                "id": "l2w7jmflha07ko",
+                "config": {
+                    "editor": "rte"
+                },
+                "is_tag_endorse": false
+            },
+            {
+                "anon": "stud",
+                "folders": [],
+                "data": {
+                    "embed_links": null
+                },
+                "no_upvotes": 0,
+                "subject": "Yeah. But, if we can use an ordinary regression model, why cannot we use a regressor with MAE loss? I think we only need to change the loss function to MAE loss.",
+                "created": "2022-05-07T18:48:47Z",
+                "bucket_order": 6,
+                "bucket_name": "Last week",
+                "type": "followup",
+                "tag_good": [
+                    {
+                        "role": "student",
+                        "name": "Haobo Xu",
+                        "endorser": {},
+                        "admin": false,
+                        "photo": "1630371831_200.jpg",
+                        "id": "ke28zmvorxu43x",
+                        "photo_url": "https://cdn-uploads.piazza.com/photos/ke28zmvorxu43x/1630371831_200.jpg",
+                        "published": true,
+                        "us": false,
+                        "facebook_id": null
+                    }
+                ],
+                "uid_a": "a_0",
+                "children": [
+                    {
+                        "anon": "no",
+                        "folders": [],
+                        "data": {
+                            "embed_links": null
+                        },
+                        "subject": "<p>Because ordinal regression is actually a classification method. It optimizes the probability of the class being leq than each ordinal label. How would you change this objective to MAE?</p>\n<p></p>",
+                        "created": "2022-05-07T18:55:23Z",
+                        "bucket_order": 6,
+                        "bucket_name": "Last week",
+                        "type": "feedback",
+                        "tag_good": [],
+                        "uid": "ky7nqdhlj5y1bb",
+                        "children": [],
+                        "tag_good_arr": [],
+                        "id": "l2w87osh1lg2au",
+                        "updated": "2022-05-07T18:55:23Z",
+                        "config": {
+                            "editor": "rte"
+                        }
+                    },
+                    {
+                        "anon": "no",
+                        "folders": [],
+                        "data": {
+                            "embed_links": null
+                        },
+                        "subject": "<p>BTW. I just exempted this question for all. I agree that a multi-class classifier is also not the best kind of solution.</p>",
+                        "created": "2022-05-07T19:03:48Z",
+                        "bucket_order": 6,
+                        "bucket_name": "Last week",
+                        "type": "feedback",
+                        "tag_good": [],
+                        "uid": "ky7nqdhlj5y1bb",
+                        "children": [],
+                        "tag_good_arr": [],
+                        "id": "l2w8iib11ab5le",
+                        "updated": "2022-05-07T19:03:48Z",
+                        "config": {
+                            "editor": "rte"
+                        }
+                    },
+                    {
+                        "anon": "stud",
+                        "folders": [],
+                        "data": {
+                            "embed_links": null
+                        },
+                        "subject": "Thank you, professor. I have a follow up question. What do you think is the best solution for this problem?",
+                        "created": "2022-05-07T19:23:18Z",
+                        "bucket_order": 6,
+                        "bucket_name": "Last week",
+                        "type": "feedback",
+                        "tag_good": [],
+                        "uid_a": "a_0",
+                        "children": [],
+                        "tag_good_arr": [],
+                        "id": "l2w97kigbletx",
+                        "updated": "2022-05-07T19:23:18Z",
+                        "config": {
+                            "editor": "plain"
+                        }
+                    },
+                    {
+                        "anon": "no",
+                        "folders": [],
+                        "data": {
+                            "embed_links": null
+                        },
+                        "subject": "<p>Could be ordinary regression.</p>",
+                        "created": "2022-05-07T19:24:22Z",
+                        "bucket_order": 6,
+                        "bucket_name": "Last week",
+                        "type": "feedback",
+                        "tag_good": [],
+                        "uid": "ky7nqdhlj5y1bb",
+                        "children": [],
+                        "tag_good_arr": [],
+                        "id": "l2w98yifsic1zp",
+                        "updated": "2022-05-07T19:24:22Z",
+                        "config": {
+                            "editor": "rte"
+                        }
+                    },
+                    {
+                        "anon": "stud",
+                        "folders": [],
+                        "data": {
+                            "embed_links": null
+                        },
+                        "subject": "Thank you very much!",
+                        "created": "2022-05-07T19:27:04Z",
+                        "bucket_order": 6,
+                        "bucket_name": "Last week",
+                        "type": "feedback",
+                        "tag_good": [],
+                        "uid_a": "a_0",
+                        "children": [],
+                        "tag_good_arr": [],
+                        "id": "l2w9cfak8oz3p5",
+                        "updated": "2022-05-07T19:27:04Z",
+                        "config": {
+                            "editor": "plain"
+                        }
+                    }
+                ],
+                "tag_good_arr": [
+                    "ke28zmvorxu43x"
+                ],
+                "no_answer": 0,
+                "id": "l2w7z779mqp5h3",
+                "updated": "2022-05-07T18:48:47Z",
+                "config": {
+                    "editor": "plain"
+                }
+            }
+        ],
+        "tag_good_arr": [],
+        "no_answer": 0,
+        "id": "l2w74r5g6nrgg",
+        "config": {
+            "editor": "plain",
+            "seen": {
+                "710": 0,
+                "190": 3,
+                "75": 4,
+                "196": 2,
+                "692": 1
+            },
+            "has_emails_sent": 1
+        },
+        "status": "active",
+        "drafts": null,
+        "request_instructor": 0,
+        "request_instructor_me": false,
+        "bookmarked": 5,
+        "num_favorites": 0,
+        "my_favorite": false,
+        "is_bookmarked": false,
+        "is_tag_good": false,
+        "q_edits": [],
+        "i_edits": [],
+        "s_edits": [],
+        "t": 1669347654129,
+        "default_anonymity": "no",
+        "question_link": "https://piazza.com/class/ky7ls2h92kpwe/post/861"
+    },
+    {
+        "history_size": 1,
+        "folders": [
+            "other"
+        ],
+        "nr": 849,
+        "data": {
+            "embed_links": []
+        },
+        "created": "2022-05-07T01:02:16Z",
+        "bucket_order": 3,
+        "no_answer_followup": 0,
+        "change_log": [
+            {
+                "anon": "stud",
+                "data": "l2v5vnaxlr61lk",
+                "v": "all",
+                "type": "create",
+                "when": "2022-05-07T01:02:16Z",
+                "uid_a": "a_0"
+            },
+            {
+                "anon": "no",
+                "uid": "ky7nqdhlj5y1bb",
+                "data": "l2w7sh0r91658q",
+                "to": "l2v5vnavzpe1li",
+                "type": "i_answer",
+                "when": "2022-05-07T18:43:34Z"
+            }
+        ],
+        "bucket_name": "Today",
+        "history": [
+            {
+                "anon": "stud",
+                "uid_a": "a_0",
+                "subject": "Bi-grams example in PPT",
+                "created": "2022-05-07T01:02:16Z",
+                "content": "A bi-gram example\n\n<S> | am Pikachu </S>\n<S> | am Psyduck </S>\n<S> Psychic | am </S>\n\nP(I1<S>)=? P(aml|) =?\nP( Pikachul am) =? P(</S>1 Psyduck) =?\n",
+                "content_orig": "<p>Hi professor, I found that example of bi-grams in PPT has &#39;&lt;s&gt;&#39; at the beginning of sentence as below. But I searched other bi-grams examples online and these examples do not add &#39;&lt;s&gt;&#39;. So which one is correct?</p>\n<p>Thanks in advance!</p>\n<p><img src=\"/redirect/s3?bucket=uploads&amp;prefix=paste%2Fksnna0jilwn6bd%2F326a6791df86150f12d3e2a7dc541135405519db8229db005748400ea54c07c9%2FIMG_0584.jpg\" width=\"606\" height=\"379\" alt=\"\" /></p>"
+            }
+        ],
+        "type": "question",
+        "tags": [
+            "other",
+            "student"
+        ],
+        "tag_good": [],
+        "unique_views": 137,
+        "children": [
+            {
+                "history_size": 1,
+                "folders": [],
+                "data": {
+                    "embed_links": []
+                },
+                "created": "2022-05-07T18:43:34Z",
+                "bucket_order": 3,
+                "tag_endorse": [
+                    {
+                        "role": "student",
+                        "name": "Hui Wang",
+                        "endorser": {},
+                        "admin": false,
+                        "photo": null,
+                        "id": "ksnna0jilwn6bd",
+                        "photo_url": null,
+                        "published": true,
+                        "us": false,
+                        "facebook_id": null
+                    }
+                ],
+                "bucket_name": "Today",
+                "history": [
+                    {
+                        "anon": "no",
+                        "uid": "ky7nqdhlj5y1bb",
+                        "subject": "",
+                        "created": "2022-05-07T18:43:34Z",
+                        "content": "<p>If &lt;S&gt; is given in the sequence then &lt;s&gt; counts. If not then of course no &lt;S&gt; will count.</p>"
+                    }
+                ],
+                "type": "i_answer",
+                "tag_endorse_arr": [
+                    "ksnna0jilwn6bd"
+                ],
+                "children": [],
+                "id": "l2w7sh0oj2t58p",
+                "config": {
+                    "editor": "rte"
+                },
+                "is_tag_endorse": false
+            }
+        ],
+        "tag_good_arr": [],
+        "no_answer": 0,
+        "id": "l2v5vnavzpe1li",
+        "config": {
+            "editor": "rte",
+            "seen": {
+                "268": 1,
+                "747": 2,
+                "83": 0,
+                "394": 3
+            },
+            "has_emails_sent": 1
+        },
+        "status": "active",
+        "drafts": null,
+        "request_instructor": 0,
+        "request_instructor_me": false,
+        "bookmarked": 5,
+        "num_favorites": 1,
+        "my_favorite": false,
+        "is_bookmarked": false,
+        "is_tag_good": false,
+        "q_edits": [],
+        "i_edits": [],
+        "s_edits": [],
+        "t": 1669347656233,
+        "default_anonymity": "no",
+        "question_link": "https://piazza.com/class/ky7ls2h92kpwe/post/849"
+    }
+]

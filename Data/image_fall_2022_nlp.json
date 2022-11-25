@@ -1,0 +1,964 @@
+[
+    {
+        "history_size": 1,
+        "folders": [
+            "other"
+        ],
+        "nr": 217,
+        "data": {
+            "embed_links": []
+        },
+        "created": "2022-09-09T18:07:19Z",
+        "bucket_order": 3,
+        "no_answer_followup": 0,
+        "change_log": [
+            {
+                "anon": "stud",
+                "data": "l7usjcffwb51pl",
+                "v": "all",
+                "type": "create",
+                "when": "2022-09-09T18:07:19Z",
+                "uid_a": "a_0"
+            },
+            {
+                "anon": "no",
+                "uid": "kd9a4qkzlz76xt",
+                "data": "l7ve8f93dus3al",
+                "to": "l7usjcfcus1pk",
+                "type": "i_answer",
+                "when": "2022-09-10T04:14:41Z"
+            }
+        ],
+        "bucket_name": "Today",
+        "history": [
+            {
+                "anon": "stud",
+                "uid_a": "a_0",
+                "subject": "Clarification on Word2Vec Optimization",
+                "created": "2022-09-09T18:07:19Z",
+                "content": "tgs Ye = argmin = y \u2014U, Pu. + log( y eve Ye)\n\nw=1 w=1\n\nUt, Ut = arg Max log (II; P(c|w;))\n",
+                "content_orig": "<p>(slide 7 of lecture 5)<br /><img src=\"/redirect/s3?bucket=uploads&amp;prefix=paste%2Fjqmw7dufwz65h6%2F0ba0240325ed5f4bb858f2ea9a758be37b63d0a5c3f10ff751541495c2eb7328%2Fimage.png\" alt=\"image.png\" width=\"682\" height=\"133\" /></p>\n<p></p>\n<p>prior to this formula, we had been examining\u00a0<em>v_t\u00a0</em>and <em>u_t</em>: (slide 6)</p>\n<p><img src=\"/redirect/s3?bucket=uploads&amp;prefix=paste%2Fjqmw7dufwz65h6%2Ffbcf9dd676ac67f5acbab191d65f676aa5b103b9d01dee705778824eb3be8623%2Fimage.png\" alt=\"image.png\" width=\"555\" height=\"74\" /></p>\n<p></p>\n<p>so I don&#39;t fully understand what\u00a0<em>u_o</em> and\u00a0<em>v_c\u00a0</em>are referring to</p>"
+            }
+        ],
+        "type": "question",
+        "tags": [
+            "other",
+            "student"
+        ],
+        "tag_good": [],
+        "unique_views": 107,
+        "children": [
+            {
+                "history_size": 1,
+                "folders": [],
+                "data": {
+                    "embed_links": []
+                },
+                "created": "2022-09-10T04:14:41Z",
+                "bucket_order": 3,
+                "tag_endorse": [],
+                "bucket_name": "Today",
+                "history": [
+                    {
+                        "anon": "no",
+                        "uid": "kd9a4qkzlz76xt",
+                        "subject": "",
+                        "created": "2022-09-10T04:14:41Z",
+                        "content": "$u_o$ and $v_c$ are notations used by the Word2Vec and they correspond to the outside and center words. What we have in slide 6 is also similar but we have the index t there because we have not simplified $P(C|w_t)$ yet."
+                    }
+                ],
+                "type": "i_answer",
+                "tag_endorse_arr": [],
+                "children": [],
+                "id": "l7ve8f90svw3ak",
+                "config": {
+                    "editor": "plain"
+                },
+                "is_tag_endorse": false
+            }
+        ],
+        "tag_good_arr": [],
+        "no_answer": 0,
+        "id": "l7usjcfcus1pk",
+        "config": {
+            "editor": "rte",
+            "has_emails_sent": 1
+        },
+        "status": "active",
+        "drafts": null,
+        "request_instructor": 0,
+        "request_instructor_me": false,
+        "bookmarked": 2,
+        "num_favorites": 1,
+        "my_favorite": false,
+        "is_bookmarked": false,
+        "is_tag_good": false,
+        "q_edits": [],
+        "i_edits": [],
+        "s_edits": [],
+        "t": 1669347665005,
+        "default_anonymity": "no",
+        "question_link": "https://piazza.com/class/l7102doc7aa3ob/post/217"
+    },
+    {
+        "history_size": 1,
+        "folders": [
+            "quizzes",
+            "other"
+        ],
+        "nr": 226,
+        "data": {
+            "embed_links": []
+        },
+        "created": "2022-09-12T20:19:18Z",
+        "bucket_order": 3,
+        "no_answer_followup": 0,
+        "change_log": [
+            {
+                "anon": "stud",
+                "data": "l7z7kmjwkyb31g",
+                "v": "all",
+                "type": "create",
+                "when": "2022-09-12T20:19:18Z",
+                "uid_a": "a_0"
+            },
+            {
+                "anon": "no",
+                "uid": "kjw30kg1og85pa",
+                "data": "l7zht0i0y165cb",
+                "to": "l7z7kmjroqs31d",
+                "type": "i_answer",
+                "when": "2022-09-13T01:05:45Z"
+            },
+            {
+                "anon": "stud",
+                "data": "l7zjdt1q5dx2xy",
+                "to": "l7z7kmjroqs31d",
+                "type": "s_answer",
+                "when": "2022-09-13T01:49:55Z",
+                "uid_a": "a_1"
+            },
+            {
+                "anon": "stud",
+                "data": "l7zjfx36cv23v",
+                "type": "s_answer_update",
+                "when": "2022-09-13T01:51:33Z",
+                "uid_a": "a_1"
+            }
+        ],
+        "bucket_name": "Today",
+        "history": [
+            {
+                "anon": "stud",
+                "uid_a": "a_0",
+                "subject": "Lecture 5 - MultiLayer Perceptron",
+                "created": "2022-09-12T20:19:18Z",
+                "content": "Multiclass Outputs\n\n\u00a2 For a multiclass classification problem:\n\u2014 We add one output for each class\n\n\u2014 We use a \u201csoftmax layer\u201d at the output to generate\na probability distribution Middle layer we use RelU. Softmax because we need a probability distribution\n\n\u2014 We use a proper loss function at the output\n\noutput\n\nLoss = \u2014 S- yi + log 9;\ni=1\n\nki\nsoftmax(z;) = =r \u00abdN Si<dD\nei\n\nj=l\n\nFigures adopted from slides by Jurafski and Martin\n",
+                "content_orig": "<p>Good Afternoon,</p>\n<p></p>\n<p>I wanted to know the difference between yi and yi^ in the loss equation in this slide. Please can someone explain.</p>\n<p></p>\n<p><img src=\"/redirect/s3?bucket=uploads&amp;prefix=paste%2Fky84303zr7fyo%2F5961788a11e6da481724ce304917c19cc4343c4dbb31c87270140d56cbe339cf%2FScreen_Shot_2022-09-12_at_12.26.40_PM.png\" alt=\"Screen_Shot_2022-09-12_at_12.26.40_PM.pngNaN\" width=\"621\" height=\"470\" /></p>"
+            }
+        ],
+        "type": "question",
+        "tags": [
+            "other",
+            "quizzes",
+            "student"
+        ],
+        "tag_good": [],
+        "unique_views": 111,
+        "children": [
+            {
+                "history_size": 1,
+                "folders": [],
+                "data": {
+                    "embed_links": []
+                },
+                "created": "2022-09-13T01:05:45Z",
+                "bucket_order": 3,
+                "tag_endorse": [
+                    {
+                        "role": "student",
+                        "name": "Chandini Velilani",
+                        "endorser": {},
+                        "admin": false,
+                        "photo": null,
+                        "id": "ky84303zr7fyo",
+                        "photo_url": null,
+                        "published": true,
+                        "us": false,
+                        "facebook_id": null
+                    },
+                    {
+                        "role": "instructor",
+                        "name": "Mohammad Rostami",
+                        "endorser": {},
+                        "admin": true,
+                        "photo": null,
+                        "id": "kd9a4qkzlz76xt",
+                        "photo_url": null,
+                        "us": false,
+                        "facebook_id": null
+                    }
+                ],
+                "bucket_name": "Today",
+                "history": [
+                    {
+                        "anon": "no",
+                        "uid": "kjw30kg1og85pa",
+                        "subject": "",
+                        "created": "2022-09-13T01:05:45Z",
+                        "content": "yi is actual label and yi^ is probability of that label given by the model."
+                    }
+                ],
+                "type": "i_answer",
+                "tag_endorse_arr": [
+                    "ky84303zr7fyo",
+                    "kd9a4qkzlz76xt"
+                ],
+                "children": [],
+                "id": "l7zht0hw9nw5ca",
+                "config": {},
+                "is_tag_endorse": false
+            },
+            {
+                "history_size": 2,
+                "folders": [],
+                "data": {
+                    "embed_links": []
+                },
+                "created": "2022-09-13T01:49:55Z",
+                "bucket_order": 3,
+                "tag_endorse": [],
+                "bucket_name": "Today",
+                "history": [
+                    {
+                        "anon": "stud",
+                        "uid_a": "a_1",
+                        "subject": "",
+                        "created": "2022-09-13T01:51:33Z",
+                        "content": "<p><strong>Loss Function :\u00a0</strong>Used to measure how similar the output of network is to the data, for which we use the loss function called &#34;Cross-entropy&#34;</p>\n<p></p>\n<p>yi is the expected output (Real Output)</p>\n<p>yi^ is the actual output or the output generated by the model (Here : Multi-layer Perceptron)</p>\n<p></p>\n<p>We optimize the model such that we can predict the output according to the data.\u00a0</p>"
+                    },
+                    {
+                        "anon": "stud",
+                        "uid_a": "a_1",
+                        "subject": "",
+                        "created": "2022-09-13T01:49:55Z",
+                        "content": "<p><strong>Loss Function :\u00a0</strong>Used to measure how similar the output of network is to the data, for which we use the loss function called &#34;Cross-entropy&#34;</p>\n<p></p>\n<p>yi is the expected output (Real Output)</p>\n<p>yi^ is the actual output or the output generated by the model (Here : Multi-layer Perceptron)</p>\n<p></p>\n<p>We optimize the model such that we can predict the output according to the data.\u00a0</p>\n<p></p>\n<p><em>Hope this answers : )</em></p>"
+                    }
+                ],
+                "type": "s_answer",
+                "tag_endorse_arr": [],
+                "children": [],
+                "id": "l7zjdt1pmng2xx",
+                "config": {
+                    "editor": "rte"
+                },
+                "is_tag_endorse": false
+            }
+        ],
+        "tag_good_arr": [],
+        "no_answer": 0,
+        "id": "l7z7kmjroqs31d",
+        "config": {
+            "editor": "rte",
+            "has_emails_sent": 1
+        },
+        "status": "active",
+        "drafts": null,
+        "request_instructor": 0,
+        "request_instructor_me": false,
+        "bookmarked": 3,
+        "num_favorites": 3,
+        "my_favorite": false,
+        "is_bookmarked": false,
+        "is_tag_good": false,
+        "q_edits": [],
+        "i_edits": [],
+        "s_edits": [],
+        "t": 1669347667108,
+        "default_anonymity": "no",
+        "question_link": "https://piazza.com/class/l7102doc7aa3ob/post/226"
+    },
+    {
+        "history_size": 2,
+        "folders": [
+            "other"
+        ],
+        "nr": 228,
+        "data": {
+            "embed_links": []
+        },
+        "created": "2022-09-12T23:22:25Z",
+        "bucket_order": 3,
+        "no_answer_followup": 0,
+        "change_log": [
+            {
+                "anon": "stud",
+                "data": "l7ze448eia1v",
+                "v": "private",
+                "type": "create",
+                "when": "2022-09-12T23:22:25Z",
+                "uid_a": "a_0"
+            },
+            {
+                "anon": "no",
+                "uid": "kd9a4qkzlz76xt",
+                "data": "l7zw84l7zwn33j",
+                "to": "l7ze448cp0g1u",
+                "type": "i_answer",
+                "when": "2022-09-13T07:49:25Z"
+            },
+            {
+                "anon": "stud",
+                "uid_a": "a_0",
+                "data": "l825trbokv14l",
+                "v": "all",
+                "type": "update",
+                "when": "2022-09-14T21:53:43Z"
+            }
+        ],
+        "bucket_name": "Today",
+        "history": [
+            {
+                "anon": "stud",
+                "uid_a": "a_0",
+                "subject": "Skip Gram Doubt",
+                "created": "2022-09-14T21:53:43Z",
+                "content": "_ pl >\nAnxy = Went xi =U\n",
+                "content_orig": "<p><strong>I am not able to understand what does alphabet &#39;x&#39; denote here.</strong></p>\n<p></p>\n<p><img src=\"/redirect/s3?bucket=uploads&amp;prefix=paste%2Fky842suvgzij%2F2f45eabdf3f9e8b3ed0c713e4423b0ead48b7be90a456e78c4ffb7b141bc42d4%2Fimage.png\" alt=\"image.png\" /></p>\n<p></p>\n<p><strong>Can you please explain in context to the Skip Gram equation.</strong></p>\n<p></p>\n<p>Thank you</p>"
+            },
+            {
+                "anon": "stud",
+                "uid_a": "a_0",
+                "subject": "Skip Gram Doubt",
+                "created": "2022-09-12T23:22:25Z",
+                "content": "_ pl >\nAnxy = Went xi =U\n",
+                "content_orig": "<p><strong>I am not able to understand what does alphabet &#39;x&#39; denote here.</strong></p>\n<p></p>\n<p><img src=\"/redirect/s3?bucket=uploads&amp;prefix=paste%2Fky842suvgzij%2F2f45eabdf3f9e8b3ed0c713e4423b0ead48b7be90a456e78c4ffb7b141bc42d4%2Fimage.png\" alt=\"image.png\" /></p>\n<p></p>\n<p><strong>Can you please explain in context to the Skip Gram equation.</strong></p>\n<p></p>\n<p>Thank you</p>\n<p></p>\n<p>Sincerely,</p>\n<p>Sneha Bandi</p>"
+            }
+        ],
+        "type": "question",
+        "tags": [
+            "other",
+            "student"
+        ],
+        "tag_good": [],
+        "unique_views": 59,
+        "children": [
+            {
+                "history_size": 1,
+                "folders": [],
+                "data": {
+                    "embed_links": []
+                },
+                "created": "2022-09-13T07:49:25Z",
+                "bucket_order": 3,
+                "tag_endorse": [
+                    {
+                        "role": "student",
+                        "name": "Sneha",
+                        "endorser": {},
+                        "admin": false,
+                        "photo": "1663012872_200.jpg",
+                        "id": "ky842suvgzij",
+                        "photo_url": "https://cdn-uploads.piazza.com/photos/ky842suvgzij/1663012872_200.jpg",
+                        "published": true,
+                        "us": false,
+                        "facebook_id": null
+                    }
+                ],
+                "bucket_name": "Today",
+                "history": [
+                    {
+                        "anon": "no",
+                        "uid": "kd9a4qkzlz76xt",
+                        "subject": "",
+                        "created": "2022-09-13T07:49:25Z",
+                        "content": "It is the one-hot vector that corresponds to the word according to our dictionary."
+                    }
+                ],
+                "type": "i_answer",
+                "tag_endorse_arr": [
+                    "ky842suvgzij"
+                ],
+                "children": [],
+                "id": "l7zw84l6art33i",
+                "config": {
+                    "editor": "plain"
+                },
+                "is_tag_endorse": false
+            }
+        ],
+        "tag_good_arr": [],
+        "no_answer": 0,
+        "id": "l7ze448cp0g1u",
+        "config": {
+            "editor": "rte",
+            "has_emails_sent": 1
+        },
+        "status": "active",
+        "drafts": null,
+        "request_instructor": 0,
+        "request_instructor_me": false,
+        "bookmarked": 2,
+        "num_favorites": 2,
+        "my_favorite": false,
+        "is_bookmarked": false,
+        "is_tag_good": false,
+        "q_edits": [],
+        "i_edits": [],
+        "s_edits": [],
+        "t": 1669347669225,
+        "default_anonymity": "no",
+        "question_link": "https://piazza.com/class/l7102doc7aa3ob/post/228"
+    },
+    {
+        "history_size": 1,
+        "folders": [
+            "other"
+        ],
+        "nr": 231,
+        "data": {
+            "embed_links": []
+        },
+        "created": "2022-09-13T00:24:10Z",
+        "bucket_order": 3,
+        "no_answer_followup": 0,
+        "change_log": [
+            {
+                "anon": "stud",
+                "data": "l7zgbitw5k5433",
+                "v": "all",
+                "type": "create",
+                "when": "2022-09-13T00:24:10Z",
+                "uid_a": "a_0"
+            },
+            {
+                "anon": "no",
+                "uid": "kd9a4qkzlz76xt",
+                "data": "l7zwlbiuwod32j",
+                "to": "l7zgbitt5tk432",
+                "type": "i_answer",
+                "when": "2022-09-13T07:59:40Z"
+            }
+        ],
+        "bucket_name": "Today",
+        "history": [
+            {
+                "anon": "stud",
+                "uid_a": "a_0",
+                "subject": "Word2vec derivation",
+                "created": "2022-09-13T00:24:10Z",
+                "content": "Vf (v,) = \u2014Uo + D_ Plt = \u2014Uo(1 _ E(uo|ve ))\n\n",
+                "content_orig": "<p><img src=\"/redirect/s3?bucket=uploads&amp;prefix=paste%2Fkshl20kyog8g%2F1291ea4ccd7d1d5d15f6b4dbbcdd49baebf2ac7d541de4e8a474c6aba6e8409c%2Fimage.png\" alt=\"image.pngNaN\" /></p>\n<p>In slide 8 from lecture 5, I am a bit confused as to how the final equation came about. From what I understand, the red underlined term corresponds to the expectation of u given v_c, so shouldn&#39;t the final equation be something like $$-u_o + E(u_o | v_c)$$?\u00a0</p>\n<p></p>\n<p></p>"
+            }
+        ],
+        "type": "question",
+        "tags": [
+            "other",
+            "student"
+        ],
+        "tag_good": [
+            {
+                "role": "student",
+                "name": "Baladitya Swaika",
+                "endorser": {},
+                "admin": false,
+                "photo": null,
+                "id": "ksqx5ry1lx0331",
+                "photo_url": null,
+                "published": true,
+                "us": false,
+                "facebook_id": null
+            }
+        ],
+        "unique_views": 93,
+        "children": [
+            {
+                "history_size": 1,
+                "folders": [],
+                "data": {
+                    "embed_links": []
+                },
+                "created": "2022-09-13T07:59:40Z",
+                "bucket_order": 3,
+                "tag_endorse": [
+                    {
+                        "role": "student",
+                        "name": "Abhiruchi Bhattacharya",
+                        "endorser": {},
+                        "admin": false,
+                        "photo": null,
+                        "id": "kshl20kyog8g",
+                        "photo_url": null,
+                        "published": true,
+                        "us": false,
+                        "facebook_id": null
+                    }
+                ],
+                "bucket_name": "Today",
+                "history": [
+                    {
+                        "anon": "no",
+                        "uid": "kd9a4qkzlz76xt",
+                        "subject": "",
+                        "created": "2022-09-13T07:59:40Z",
+                        "content": "Thank you very much for catching this error. I updated the slide accordingly. I am really glad that you are reading the slides carefully."
+                    }
+                ],
+                "type": "i_answer",
+                "tag_endorse_arr": [
+                    "kshl20kyog8g"
+                ],
+                "children": [],
+                "id": "l7zwlbiq58x32i",
+                "config": {
+                    "editor": "plain"
+                },
+                "is_tag_endorse": false
+            }
+        ],
+        "tag_good_arr": [
+            "ksqx5ry1lx0331"
+        ],
+        "no_answer": 0,
+        "id": "l7zgbitt5tk432",
+        "config": {
+            "editor": "rte",
+            "has_emails_sent": 1
+        },
+        "status": "active",
+        "drafts": null,
+        "request_instructor": 0,
+        "request_instructor_me": false,
+        "bookmarked": 2,
+        "num_favorites": 0,
+        "my_favorite": false,
+        "is_bookmarked": false,
+        "is_tag_good": false,
+        "q_edits": [],
+        "i_edits": [],
+        "s_edits": [],
+        "t": 1669347671353,
+        "default_anonymity": "no",
+        "question_link": "https://piazza.com/class/l7102doc7aa3ob/post/231"
+    },
+    {
+        "history_size": 3,
+        "folders": [
+            "quizzes"
+        ],
+        "nr": 238,
+        "data": {
+            "embed_links": []
+        },
+        "created": "2022-09-13T18:07:52Z",
+        "bucket_order": 3,
+        "no_answer_followup": 0,
+        "change_log": [
+            {
+                "anon": "stud",
+                "data": "l80ibgkc2ah6c1",
+                "v": "all",
+                "type": "create",
+                "when": "2022-09-13T18:07:52Z",
+                "uid_a": "a_0"
+            },
+            {
+                "anon": "stud",
+                "data": "l80ibtrumccmc",
+                "v": "all",
+                "type": "update",
+                "when": "2022-09-13T18:08:09Z",
+                "uid_a": "a_0"
+            },
+            {
+                "anon": "stud",
+                "data": "l80ic8iynm81x0",
+                "v": "all",
+                "type": "update",
+                "when": "2022-09-13T18:08:28Z",
+                "uid_a": "a_0"
+            },
+            {
+                "anon": "no",
+                "uid": "kd9a4qkzlz76xt",
+                "data": "l80oz4lczms66r",
+                "to": "l80ibgk9dvh6c0",
+                "type": "i_answer",
+                "when": "2022-09-13T21:14:14Z"
+            }
+        ],
+        "bucket_name": "Today",
+        "history": [
+            {
+                "anon": "stud",
+                "uid_a": "a_0",
+                "subject": "Word2Vec optimization equation",
+                "created": "2022-09-13T18:08:28Z",
+                "content": "\u00a2 The log-likelihood optimization problem: one sum!\nV\n\nUo, Ve = arg min = ; \u2014U, vue + log( ) eto Ye)\nw=1 w'=1\n",
+                "content_orig": "<p>Hi, what does w and w&#39; signify in this equation? It is not used inside the summations. Is it a typo (Should it be o and o&#39;)? L5, Slide 7<br /><br /><img src=\"/redirect/s3?bucket=uploads&amp;prefix=paste%2Fksjljcuma292jz%2F7210f9844f355e510f36e3a915bc5099b1a71177263e8075d6fd0d5425f184a5%2FScreen_Shot_2022-09-13_at_10.58.42_AM.png\" width=\"507\" height=\"108\" alt=\"\" /></p>"
+            },
+            {
+                "anon": "stud",
+                "uid_a": "a_0",
+                "subject": "Word2Vec optimization equation",
+                "created": "2022-09-13T18:08:09Z",
+                "content": "\u00a2 The log-likelihood optimization problem: one sum!\nV\n\nUo, Ve = arg min = ; \u2014U, vue + log( ) eto Ye)\nw=1 w'=1\n",
+                "content_orig": "<p>Hi, what do w and w&#39; signify in this equation? It is not used inside the summations. Is it a typo (Should it be o and o&#39;)? L5, Slide 7<br /><br /><img src=\"/redirect/s3?bucket=uploads&amp;prefix=paste%2Fksjljcuma292jz%2F7210f9844f355e510f36e3a915bc5099b1a71177263e8075d6fd0d5425f184a5%2FScreen_Shot_2022-09-13_at_10.58.42_AM.png\" width=\"507\" height=\"108\" alt=\"\" /></p>"
+            },
+            {
+                "anon": "stud",
+                "uid_a": "a_0",
+                "subject": "Word2Vec optimization equation",
+                "created": "2022-09-13T18:07:52Z",
+                "content": "\u00a2 The log-likelihood optimization problem: one sum!\nV\n\nUo, Ve = arg min = ; \u2014U, vue + log( ) eto Ye)\nw=1 w'=1\n",
+                "content_orig": "<p>Hi, what do w and w&#39; signify in this equation? It is not used inside the summations. Is it a typo (Should it be o and o&#39;)? L5, Slide 7<img src=\"/redirect/s3?bucket=uploads&amp;prefix=paste%2Fksjljcuma292jz%2F7210f9844f355e510f36e3a915bc5099b1a71177263e8075d6fd0d5425f184a5%2FScreen_Shot_2022-09-13_at_10.58.42_AM.png\" width=\"507\" height=\"108\" alt=\"\" /></p>"
+            }
+        ],
+        "type": "question",
+        "tags": [
+            "quizzes",
+            "student"
+        ],
+        "tag_good": [],
+        "unique_views": 113,
+        "children": [
+            {
+                "history_size": 1,
+                "folders": [],
+                "data": {
+                    "embed_links": []
+                },
+                "created": "2022-09-13T21:14:14Z",
+                "bucket_order": 3,
+                "tag_endorse": [],
+                "bucket_name": "Today",
+                "history": [
+                    {
+                        "anon": "no",
+                        "uid": "kd9a4qkzlz76xt",
+                        "subject": "",
+                        "created": "2022-09-13T21:14:14Z",
+                        "content": "w is the index for the outer sum and w&#39; is the index for the inner sum inside the logarithm, Remember v_c is a row of W/."
+                    }
+                ],
+                "type": "i_answer",
+                "tag_endorse_arr": [],
+                "children": [],
+                "id": "l80oz4l8cl366q",
+                "config": {
+                    "editor": "plain"
+                },
+                "is_tag_endorse": false
+            }
+        ],
+        "tag_good_arr": [],
+        "no_answer": 0,
+        "id": "l80ibgk9dvh6c0",
+        "config": {
+            "editor": "rte",
+            "has_emails_sent": 1
+        },
+        "status": "active",
+        "drafts": null,
+        "request_instructor": 0,
+        "request_instructor_me": false,
+        "bookmarked": 2,
+        "num_favorites": 0,
+        "my_favorite": false,
+        "is_bookmarked": false,
+        "is_tag_good": false,
+        "q_edits": [],
+        "i_edits": [],
+        "s_edits": [],
+        "t": 1669347673458,
+        "default_anonymity": "no",
+        "question_link": "https://piazza.com/class/l7102doc7aa3ob/post/238"
+    },
+    {
+        "history_size": 1,
+        "folders": [
+            "quizzes"
+        ],
+        "nr": 627,
+        "data": {
+            "embed_links": []
+        },
+        "created": "2022-10-18T21:24:44Z",
+        "bucket_order": 3,
+        "no_answer_followup": 1,
+        "change_log": [
+            {
+                "anon": "stud",
+                "data": "l9eprghdsad6rh",
+                "v": "all",
+                "type": "create",
+                "when": "2022-10-18T21:24:44Z",
+                "uid_a": "a_0"
+            },
+            {
+                "anon": "no",
+                "uid": "kspcd36luqb4yn",
+                "data": "l9epvfsyibuwa",
+                "to": "l9eprgh9qka6rf",
+                "type": "s_answer",
+                "when": "2022-10-18T21:27:50Z"
+            },
+            {
+                "anon": "no",
+                "uid": "kspcd36luqb4yn",
+                "data": "l9eq5b1rizk4rn",
+                "type": "s_answer_update",
+                "when": "2022-10-18T21:35:31Z"
+            },
+            {
+                "anon": "no",
+                "uid": "kspcd36luqb4yn",
+                "data": "l9eq8tiqojg5l5",
+                "type": "s_answer_update",
+                "when": "2022-10-18T21:38:15Z"
+            },
+            {
+                "anon": "no",
+                "uid": "kspcd36luqb4yn",
+                "data": "l9eqq4w48np6u5",
+                "type": "s_answer_update",
+                "when": "2022-10-18T21:51:42Z"
+            },
+            {
+                "anon": "no",
+                "uid": "kstgcok9xy24tk",
+                "to": "l9eprgh9qka6rf",
+                "type": "followup",
+                "when": "2022-10-19T01:40:08Z",
+                "cid": "l9eyvw16v5o4q7"
+            }
+        ],
+        "bucket_name": "Today",
+        "history": [
+            {
+                "anon": "stud",
+                "uid_a": "a_0",
+                "subject": "Quiz 8",
+                "created": "2022-10-18T21:24:44Z",
+                "content": "Question 8 0 out of 10 points\n\nOne of the difference between rule-based and transfer-based machine translation is that transfer-based machine translation's rules on semantic structure is more\ngeneralizable.\n\nSelected Answer: \u20ac3 True\nAnswers: True\n@ False\n\nQuestion 4 0 out of 10 points\n\nIn IBM machine translation model, if there are k words in the source sentence and v words in target sentence in a pair in parallel corpus, how many possible alignments\n13] exists in this pair. (a*b means a to the power of b)\n\nSelected Answer: \u00a2 (v+1)4k\nAnswers: k4v\n\n(v+41)4k\n\n@ (k+1)4v\n\nv\u2018k\n\nPreriwll Weuwviu vi Lf = bllitreliaeinte Prweieie\nAnalignment a is {a1,...@m} ,where a; \u20ac {0...1}\nHence there are (/ + 1)\u201d possible alignments\n\nm-.. t{re nr arrrrFri\n",
+                "content_orig": "<p><img src=\"/redirect/s3?bucket=uploads&amp;prefix=paste%2Fksgx8cptzdp6tz%2Feb43d1581e169f3ad95694551d351eee13665e2bdc2f83aa75e343b4a9b2896a%2Fimage.png\" alt=\"image.pngNaN\" width=\"1421\" height=\"250\" /></p>\n<p>The correct answer for this question must be True, since transfer based model is more generalizable than rule based.</p>\n<p></p>\n<p>Also, for question 4</p>\n<p></p>\n<p><img src=\"/redirect/s3?bucket=uploads&amp;prefix=paste%2Fksgx8cptzdp6tz%2F32e75c2cdd164d642d972139c47feec6d915c54c2ff9cfc7bf3e135175c662c8%2Fimage.png\" alt=\"image.pngNaN\" /></p>\n<p></p>\n<p><img src=\"/redirect/s3?bucket=uploads&amp;prefix=paste%2Fksgx8cptzdp6tz%2Fac0b7443f53ec74abef56e8f4b56d9639fdf821f80f15df195bf4d387db61227%2Fimage.png\" alt=\"image.pngNaN\" /></p>\n<p></p>\n<p>as per this, ans should be (v&#43;1)^k.</p>"
+            }
+        ],
+        "type": "question",
+        "tags": [
+            "quizzes",
+            "student"
+        ],
+        "tag_good": [
+            {
+                "role": "student",
+                "name": "Priya Mane",
+                "endorser": {},
+                "admin": false,
+                "photo": null,
+                "id": "ksgx8cptzdp6tz",
+                "photo_url": null,
+                "published": true,
+                "us": false,
+                "facebook_id": null
+            },
+            {
+                "role": "student",
+                "name": "Devyan Biswas",
+                "endorser": {
+                    "l7102doc7aa3ob": 1661693544
+                },
+                "admin": false,
+                "photo": null,
+                "id": "ksggzt30igi3w0",
+                "photo_url": null,
+                "published": true,
+                "us": false,
+                "facebook_id": null
+            },
+            {
+                "role": "student",
+                "name": "Aditya Dave",
+                "endorser": {
+                    "kyeg608so5gf5": 1644813528,
+                    "global": 1645489099
+                },
+                "admin": false,
+                "photo": null,
+                "id": "ksav92ebzf3cj",
+                "photo_url": null,
+                "published": true,
+                "us": false,
+                "facebook_id": null
+            },
+            {
+                "role": "student",
+                "name": "Vashi Dhankar",
+                "endorser": {},
+                "admin": false,
+                "photo": null,
+                "id": "kjw2zl256e44nz",
+                "photo_url": null,
+                "published": true,
+                "us": false,
+                "facebook_id": null
+            },
+            {
+                "role": "student",
+                "name": "Joohan Lee",
+                "endorser": {},
+                "admin": false,
+                "photo": null,
+                "id": "ky6gkg81v702xo",
+                "photo_url": null,
+                "published": true,
+                "us": false,
+                "facebook_id": null
+            },
+            {
+                "role": "student",
+                "name": "Parth Vipul Shah",
+                "endorser": {},
+                "admin": false,
+                "photo": null,
+                "id": "ky843ck9nvj1w2",
+                "photo_url": null,
+                "published": true,
+                "us": false,
+                "facebook_id": null
+            }
+        ],
+        "unique_views": 137,
+        "children": [
+            {
+                "history_size": 4,
+                "folders": [],
+                "data": {
+                    "embed_links": []
+                },
+                "created": "2022-10-18T21:27:50Z",
+                "bucket_order": 3,
+                "tag_endorse": [
+                    {
+                        "role": "ta",
+                        "name": "Yuliang Cai",
+                        "endorser": {},
+                        "admin": true,
+                        "photo": null,
+                        "id": "l710c50jh211c3",
+                        "photo_url": null,
+                        "us": false,
+                        "facebook_id": null
+                    },
+                    {
+                        "role": "student",
+                        "name": "Kaustubh Rai",
+                        "endorser": {},
+                        "admin": false,
+                        "photo": null,
+                        "id": "ky843den1e11yf",
+                        "photo_url": null,
+                        "published": true,
+                        "us": false,
+                        "facebook_id": null
+                    }
+                ],
+                "bucket_name": "Today",
+                "history": [
+                    {
+                        "anon": "no",
+                        "uid": "kspcd36luqb4yn",
+                        "subject": "",
+                        "created": "2022-10-18T21:51:42Z",
+                        "content": "<p>Completely agree with you on transfer-based Machine Translation problem.\u00a0</p>\n<p></p>\n<p>For the IBM model problem, this is my understanding:</p>\n<p>In the ppt you screenshot, <strong>l </strong>is the length of the <strong>source </strong>and <strong>m </strong>is the length of the <strong>target</strong>, therefore (<strong>l</strong>&#43;1)^<strong>m </strong>possible alignments.</p>\n<p>- For clarification: The slide states, &#34;[a]n alignment map determines which English word each French word originated from.&#34; Meaning that the French word (target) came from the English word (source). (<em>I honestly may be confusing this though.</em>)</p>\n<p></p>\n<p>In the quiz, <strong>k </strong>is the length of the <strong>source </strong>and <strong>v </strong>is the length of the <strong>target</strong>, therefore (<strong>k</strong>&#43;1)^<strong>v </strong>possible alignments..\u00a0</p>"
+                    },
+                    {
+                        "anon": "no",
+                        "uid": "kspcd36luqb4yn",
+                        "subject": "",
+                        "created": "2022-10-18T21:38:15Z",
+                        "content": "<p>Completely agree with you on transfer-based Machine Translation problem.\u00a0</p>\n<p></p>\n<p>For the IBM model problem, this is my understanding:</p>\n<p>In the ppt you screenshot, <strong>l </strong>is the length of the <strong>source </strong>and <strong>m </strong>is the length of the <strong>target</strong>, therefore (<strong>l</strong>&#43;1)^<strong>m </strong>possible alignments.</p>\n<p>- For clarification: The slide states, &#34;[a]n alignment map determines which English word each French word originated from.&#34; Meaning that the French word (target) came from the English word (source). (I honestly may be confusing this though. )</p>\n<p></p>\n<p>In the quiz, <strong>k </strong>is the length of the <strong>source </strong>and <strong>v </strong>is the length of the <strong>target</strong>, therefore (<strong>k</strong>&#43;1)^<strong>v </strong>possible alignments..\u00a0</p>"
+                    },
+                    {
+                        "anon": "no",
+                        "uid": "kspcd36luqb4yn",
+                        "subject": "",
+                        "created": "2022-10-18T21:35:31Z",
+                        "content": "<p></p>\n<p>From my understanding, in the ppt you screenshot, <strong>l </strong>is the length of the <strong>source </strong>and <strong>m </strong>is the length of the <strong>target</strong>, therefore (<strong>l</strong>&#43;1)^<strong>m </strong>possible alignments.</p>\n<p>- For clarification: The slide states, &#34;[a]n alignment map determines which English word each French word originated from.&#34; Meaning that the French word (target) came from the English word (source). (<em>I honestly may be confusing this though.</em>)</p>\n<p></p>\n<p>In the quiz, <strong>k </strong>is the length of the <strong>source </strong>and <strong>v </strong>is the length of the <strong>target</strong>, therefore (<strong>k</strong>&#43;1)^<strong>v </strong>possible alignments..\u00a0</p>"
+                    },
+                    {
+                        "anon": "no",
+                        "uid": "kspcd36luqb4yn",
+                        "subject": "",
+                        "created": "2022-10-18T21:27:50Z",
+                        "content": "<p></p>\n<p>From my understanding, in the ppt you screenshot, <strong>l </strong>is the length of the <strong>source </strong>and <strong>m </strong>is the length of the <strong>target</strong>, therefore (<strong>l</strong>&#43;1)^<strong>m </strong>possible alignments.</p>\n<p></p>\n<p>In the quiz, <strong>k </strong>is the length of the <strong>source </strong>and <strong>v </strong>is the length of the <strong>target</strong>, therefore (<strong>k</strong>&#43;1)^<strong>v </strong>possible alignments..\u00a0</p>"
+                    }
+                ],
+                "type": "s_answer",
+                "tag_endorse_arr": [
+                    "l710c50jh211c3",
+                    "ky843den1e11yf"
+                ],
+                "children": [],
+                "id": "l9epvfsvkugw9",
+                "config": {
+                    "editor": "rte"
+                },
+                "is_tag_endorse": false
+            },
+            {
+                "anon": "no",
+                "folders": [],
+                "data": {
+                    "embed_links": null
+                },
+                "no_upvotes": 0,
+                "subject": "<p>For question 8, the question is talking about the semantic structure and not the syntactic structure. Hence, this will be False!</p>",
+                "created": "2022-10-19T01:40:08Z",
+                "bucket_order": 4,
+                "bucket_name": "Yesterday",
+                "type": "followup",
+                "tag_good": [],
+                "uid": "kstgcok9xy24tk",
+                "children": [],
+                "tag_good_arr": [],
+                "no_answer": 1,
+                "id": "l9eyvw16v5o4q7",
+                "d-bucket": "Yesterday",
+                "updated": "2022-10-19T01:44:09Z",
+                "config": {
+                    "editor": "rte"
+                }
+            }
+        ],
+        "tag_good_arr": [
+            "ksgx8cptzdp6tz",
+            "ksggzt30igi3w0",
+            "ksav92ebzf3cj",
+            "kjw2zl256e44nz",
+            "ky6gkg81v702xo",
+            "ky843ck9nvj1w2"
+        ],
+        "no_answer": 0,
+        "id": "l9eprgh9qka6rf",
+        "config": {
+            "editor": "rte",
+            "has_emails_sent": 1
+        },
+        "status": "active",
+        "drafts": null,
+        "request_instructor": 0,
+        "request_instructor_me": false,
+        "bookmarked": 3,
+        "num_favorites": 2,
+        "my_favorite": false,
+        "is_bookmarked": false,
+        "is_tag_good": false,
+        "q_edits": [],
+        "i_edits": [],
+        "s_edits": [],
+        "t": 1669347675565,
+        "default_anonymity": "no",
+        "question_link": "https://piazza.com/class/l7102doc7aa3ob/post/627"
+    }
+]
