@@ -105,7 +105,7 @@
         "q_edits": [],
         "i_edits": [],
         "s_edits": [],
-        "t": 1669347647807,
+        "t": 1669493143441,
         "default_anonymity": "no",
         "question_link": "https://piazza.com/class/ky7ls2h92kpwe/post/871"
     },
@@ -359,7 +359,7 @@
         "q_edits": [],
         "i_edits": [],
         "s_edits": [],
-        "t": 1669347649917,
+        "t": 1669493145552,
         "default_anonymity": "no",
         "question_link": "https://piazza.com/class/ky7ls2h92kpwe/post/870"
     },
@@ -498,7 +498,7 @@
         "q_edits": [],
         "i_edits": [],
         "s_edits": [],
-        "t": 1669347652023,
+        "t": 1669493147693,
         "default_anonymity": "no",
         "question_link": "https://piazza.com/class/ky7ls2h92kpwe/post/868"
     },
@@ -813,130 +813,8 @@
         "q_edits": [],
         "i_edits": [],
         "s_edits": [],
-        "t": 1669347654129,
+        "t": 1669493149823,
         "default_anonymity": "no",
         "question_link": "https://piazza.com/class/ky7ls2h92kpwe/post/861"
-    },
-    {
-        "history_size": 1,
-        "folders": [
-            "other"
-        ],
-        "nr": 849,
-        "data": {
-            "embed_links": []
-        },
-        "created": "2022-05-07T01:02:16Z",
-        "bucket_order": 3,
-        "no_answer_followup": 0,
-        "change_log": [
-            {
-                "anon": "stud",
-                "data": "l2v5vnaxlr61lk",
-                "v": "all",
-                "type": "create",
-                "when": "2022-05-07T01:02:16Z",
-                "uid_a": "a_0"
-            },
-            {
-                "anon": "no",
-                "uid": "ky7nqdhlj5y1bb",
-                "data": "l2w7sh0r91658q",
-                "to": "l2v5vnavzpe1li",
-                "type": "i_answer",
-                "when": "2022-05-07T18:43:34Z"
-            }
-        ],
-        "bucket_name": "Today",
-        "history": [
-            {
-                "anon": "stud",
-                "uid_a": "a_0",
-                "subject": "Bi-grams example in PPT",
-                "created": "2022-05-07T01:02:16Z",
-                "content": "A bi-gram example\n\n<S> | am Pikachu </S>\n<S> | am Psyduck </S>\n<S> Psychic | am </S>\n\nP(I1<S>)=? P(aml|) =?\nP( Pikachul am) =? P(</S>1 Psyduck) =?\n",
-                "content_orig": "<p>Hi professor, I found that example of bi-grams in PPT has &#39;&lt;s&gt;&#39; at the beginning of sentence as below. But I searched other bi-grams examples online and these examples do not add &#39;&lt;s&gt;&#39;. So which one is correct?</p>\n<p>Thanks in advance!</p>\n<p><img src=\"/redirect/s3?bucket=uploads&amp;prefix=paste%2Fksnna0jilwn6bd%2F326a6791df86150f12d3e2a7dc541135405519db8229db005748400ea54c07c9%2FIMG_0584.jpg\" width=\"606\" height=\"379\" alt=\"\" /></p>"
-            }
-        ],
-        "type": "question",
-        "tags": [
-            "other",
-            "student"
-        ],
-        "tag_good": [],
-        "unique_views": 137,
-        "children": [
-            {
-                "history_size": 1,
-                "folders": [],
-                "data": {
-                    "embed_links": []
-                },
-                "created": "2022-05-07T18:43:34Z",
-                "bucket_order": 3,
-                "tag_endorse": [
-                    {
-                        "role": "student",
-                        "name": "Hui Wang",
-                        "endorser": {},
-                        "admin": false,
-                        "photo": null,
-                        "id": "ksnna0jilwn6bd",
-                        "photo_url": null,
-                        "published": true,
-                        "us": false,
-                        "facebook_id": null
-                    }
-                ],
-                "bucket_name": "Today",
-                "history": [
-                    {
-                        "anon": "no",
-                        "uid": "ky7nqdhlj5y1bb",
-                        "subject": "",
-                        "created": "2022-05-07T18:43:34Z",
-                        "content": "<p>If &lt;S&gt; is given in the sequence then &lt;s&gt; counts. If not then of course no &lt;S&gt; will count.</p>"
-                    }
-                ],
-                "type": "i_answer",
-                "tag_endorse_arr": [
-                    "ksnna0jilwn6bd"
-                ],
-                "children": [],
-                "id": "l2w7sh0oj2t58p",
-                "config": {
-                    "editor": "rte"
-                },
-                "is_tag_endorse": false
-            }
-        ],
-        "tag_good_arr": [],
-        "no_answer": 0,
-        "id": "l2v5vnavzpe1li",
-        "config": {
-            "editor": "rte",
-            "seen": {
-                "268": 1,
-                "747": 2,
-                "83": 0,
-                "394": 3
-            },
-            "has_emails_sent": 1
-        },
-        "status": "active",
-        "drafts": null,
-        "request_instructor": 0,
-        "request_instructor_me": false,
-        "bookmarked": 5,
-        "num_favorites": 1,
-        "my_favorite": false,
-        "is_bookmarked": false,
-        "is_tag_good": false,
-        "q_edits": [],
-        "i_edits": [],
-        "s_edits": [],
-        "t": 1669347656233,
-        "default_anonymity": "no",
-        "question_link": "https://piazza.com/class/ky7ls2h92kpwe/post/849"
     }
 ]
