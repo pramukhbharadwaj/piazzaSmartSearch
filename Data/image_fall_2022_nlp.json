@@ -282,8 +282,186 @@
         "q_edits": [],
         "i_edits": [],
         "s_edits": [],
-        "t": 1669593861484,
+        "t": 1669603429290,
         "default_anonymity": "no",
         "question_link": "https://piazza.com/class/l7102doc7aa3ob/post/627"
+    },
+    {
+        "history_size": 1,
+        "folders": [
+            "coding3"
+        ],
+        "nr": 529,
+        "data": {
+            "embed_links": []
+        },
+        "created": "2022-10-06T17:33:35Z",
+        "bucket_order": 3,
+        "no_answer_followup": 0,
+        "change_log": [
+            {
+                "anon": "stud",
+                "data": "l8xc7ylph333xr",
+                "v": "all",
+                "type": "create",
+                "when": "2022-10-06T17:33:35Z",
+                "uid_a": "a_0"
+            },
+            {
+                "anon": "no",
+                "uid": "ksnna3fv70v6hr",
+                "data": "l8xcbx1dw3y31",
+                "to": "l8xc7ylm7nn3xq",
+                "type": "s_answer",
+                "when": "2022-10-06T17:36:39Z"
+            },
+            {
+                "anon": "no",
+                "uid": "ixm5rfb79wz6t",
+                "data": "l8xiyb5pa53xj",
+                "to": "l8xc7ylm7nn3xq",
+                "type": "i_answer",
+                "when": "2022-10-06T20:42:02Z"
+            }
+        ],
+        "bucket_name": "Today",
+        "history": [
+            {
+                "anon": "stud",
+                "uid_a": "a_0",
+                "subject": "Dealing with unknown words in test data.",
+                "created": "2022-10-06T17:33:35Z",
+                "content": "= Smoothing and unseen words and transitions. You should implement some method to handle unknown vocabulary and unseen transitions in the test data, otherwise your\nprograms won't work.\n\n= Unseen words: The test data may contain words that have never been encountered in the training data: these will have an emission probability of zero for all tags.\n= Unseen transitions: The test data may contain two adjacent unambiguous words (that is, words that can only have one part-of-speech tag), but the transition between\n\nthese tags was never seen in the training data, so it has a probability of zero; in this case the Viterbi algorithm will have no way to proceed.\n\nThe reference solution will use add-one smoothing on the transition probabilities and no smoothing on the emission probabilities. For unknown tokens in the test data, it will\n\nignore the emission probabilities and use the transition iiti and also limit the tag inventory to only the tags with a large associated vocabulary (open-class\nitems). You may use more sophisticated methods which you implement yourselves.\n",
+                "content_orig": "<p><img src=\"/redirect/s3?bucket=uploads&amp;prefix=paste%2Fksgx8cptzdp6tz%2F164cc5dbcafb5239812bd72077a687511cbc29c488e35a90e0b4d81d38353eb0%2Fimage.png\" alt=\"image.pngNaN\" /></p>\n<p>does &#34;ignoring emission prob&#34; mean considering it 1?</p>\n<p></p>\n<p>Eg.</p>\n<p>because for any tag, the prob of reaching it from a prev_tag is:\u00a0 prev_prob*emission_prob*transition_prob.</p>\n<p>which means the final prob will be\u00a0 prev_prob*transition_prob</p>\n<p>Does ignoring mean considering emission prob as 1?</p>\n<p></p>\n<p>Thank you!</p>"
+            }
+        ],
+        "type": "question",
+        "tags": [
+            "coding3",
+            "student"
+        ],
+        "tag_good": [],
+        "unique_views": 158,
+        "children": [
+            {
+                "history_size": 1,
+                "folders": [],
+                "data": {
+                    "embed_links": []
+                },
+                "created": "2022-10-06T17:36:39Z",
+                "bucket_order": 3,
+                "tag_endorse": [
+                    {
+                        "role": "student",
+                        "name": "Priya Mane",
+                        "endorser": {},
+                        "admin": false,
+                        "photo": null,
+                        "id": "ksgx8cptzdp6tz",
+                        "photo_url": null,
+                        "published": true,
+                        "us": false,
+                        "facebook_id": null
+                    },
+                    {
+                        "role": "student",
+                        "name": "yuhangjin",
+                        "endorser": {},
+                        "admin": false,
+                        "photo": null,
+                        "id": "ky9hzzsk9wi3x6",
+                        "photo_url": null,
+                        "published": true,
+                        "us": false,
+                        "facebook_id": null
+                    },
+                    {
+                        "role": "student",
+                        "name": "Fan Chung Hung",
+                        "endorser": {},
+                        "admin": false,
+                        "photo": null,
+                        "id": "ky7vx132ye45",
+                        "photo_url": null,
+                        "published": true,
+                        "us": false,
+                        "facebook_id": null
+                    }
+                ],
+                "bucket_name": "Today",
+                "history": [
+                    {
+                        "anon": "no",
+                        "uid": "ksnna3fv70v6hr",
+                        "subject": "",
+                        "created": "2022-10-06T17:36:39Z",
+                        "content": "<p>Yes, since any other value of the emissions probability would lead to some sort of influence of the overall state probability. For unseen words, I just set emission probability to 1 to account for that.\u00a0</p>"
+                    }
+                ],
+                "type": "s_answer",
+                "tag_endorse_arr": [
+                    "ksgx8cptzdp6tz",
+                    "ky9hzzsk9wi3x6",
+                    "ky7vx132ye45"
+                ],
+                "children": [],
+                "id": "l8xcbx19f092z",
+                "config": {
+                    "editor": "rte"
+                },
+                "is_tag_endorse": false
+            },
+            {
+                "history_size": 1,
+                "folders": [],
+                "data": {
+                    "embed_links": []
+                },
+                "created": "2022-10-06T20:42:02Z",
+                "bucket_order": 3,
+                "tag_endorse": [],
+                "bucket_name": "Today",
+                "history": [
+                    {
+                        "anon": "no",
+                        "uid": "ixm5rfb79wz6t",
+                        "subject": "",
+                        "created": "2022-10-06T20:42:02Z",
+                        "content": "Ignoring the emission is not the same as assuming the probability is one. Mathematically, of course, multiplying a number by one is the same as leaving the number alone. But conceptually these are different. Assuming all tags have a probability of 1 for emitting any unseen word is incoherent. Instead, what we&#39;re doing is an algorithmic change: whereas for seen words, the Viterbi decoding lattice (or matrix) registers the joint probability of the incoming path, latest transition, and emission, for unseen words the lattice registers the joint probability of the incoming path and latest transition. Since it does the same for the entire column, the numbers are comparable.\n\nIf you wanted to use an emission probability for unseen items, you would need to include that in your model. For example, you could divide your training data in order to estimate for each state the probability that it would generate an unseen token, and then build these estimates into the model."
+                    }
+                ],
+                "type": "i_answer",
+                "tag_endorse_arr": [],
+                "children": [],
+                "id": "l8xiyb5ovbxxi",
+                "config": {
+                    "editor": "plain"
+                },
+                "is_tag_endorse": false
+            }
+        ],
+        "tag_good_arr": [],
+        "no_answer": 0,
+        "id": "l8xc7ylm7nn3xq",
+        "config": {
+            "editor": "rte",
+            "has_emails_sent": 1
+        },
+        "status": "active",
+        "drafts": null,
+        "request_instructor": 0,
+        "request_instructor_me": false,
+        "bookmarked": 4,
+        "num_favorites": 2,
+        "my_favorite": false,
+        "is_bookmarked": false,
+        "is_tag_good": false,
+        "q_edits": [],
+        "i_edits": [],
+        "s_edits": [],
+        "t": 1669603431394,
+        "default_anonymity": "no",
+        "question_link": "https://piazza.com/class/l7102doc7aa3ob/post/529"
     }
 ]
